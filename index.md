@@ -44,9 +44,8 @@ __Freelancer @ coding.ms__, Münster
 - Setup and integration of cloud based systems (Debian)
 
 `2016-2017`
-__Director @ Better World Communications__, Nijmegen/NL
+__Founder @ Better World Communications__, Nijmegen/NL
 - Development of secure communication channels for businesses (Android, Linux, OpenVPN)
-- System architecture
 
 `since 2013`
 - Cryptocurrency consulting
