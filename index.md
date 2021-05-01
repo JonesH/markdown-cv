@@ -59,16 +59,16 @@ __Programming Languages__
 - Python, PHP, Java, C, R
 
 __GNU/Linux__
-- Debian, bash, ssh
+- Debian, Bash, SSH
 
 __Databases__
-- Redis, NOSQL (Mongo), MySQL, elasticsearch
+- Redis, NOSQL (Mongo), MySQL, Elasticsearch
 
 __Artificial Intelligence__
 - Deep learning, Classification, Clustering
 
 __High performance computing__
-- CUDA, numpy, parallelization, optimization
+- CUDA, Numpy, Parallelization, Optimization
 
 
 ## Languages
