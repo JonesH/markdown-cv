@@ -56,9 +56,9 @@ body {
 	font-size: 12pt;
 	line-height: 1.35em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
-	/*font-family: Avenir,Verdana,sans-serif;*/
+	font-family: 'HackRegular',Avenir,Verdana,sans-serif;
 	/*font-family: 'FantasqueSansMonoRegular';*/
-	font-family: 'HackRegular';
+	/*font-family: 'HackRegular';
    	font-weight: normal;
    	font-style: normal; 
 	/*margin-top: 1em;
@@ -77,7 +77,7 @@ code {
 	font: normal normal;
 	font-size: 90%;
 	/*line-height: 1em;*/
-	font-family: Monaco,Menlo,monospace,sans-serif;
+	font-family: 'FantasqueSansMonoRegular',Monaco,Menlo,monospace,sans-serif;
 	color: #ccc;
 }
 
@@ -119,10 +119,10 @@ li ul {
 
 h1,h2,h3,h4 {
 	font-weight: 400;
-	/*font-family: Avenir,Cousine,Verdana,sans-serif;	*/
+	font-family: 'HackRegular',Avenir,Cousine,Verdana,sans-serif;	
 	/*font-family: 'FantasqueSansMonoRegular'; */
-	font-family: 'HackRegular';
-	width: 100%;
+	/*font-family: 'HackRegular';*/
+	width: 80%;
 }
 
 h1 {
