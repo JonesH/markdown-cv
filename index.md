@@ -48,6 +48,7 @@ __Founder @ Better World Communications__, Nijmegen/NL
 - Development of secure business communication channels (Android, Linux, OpenVPN)
 
 `since 2013`
+__Self employed__
 - Cryptocurrency consulting
 - Cryptocurrency trading
 
