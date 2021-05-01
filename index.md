@@ -44,15 +44,15 @@ __Director @ Better World Communications__, Nijmegen/NL
 - Cryptocurrency consulting
 - Cryptocurrency trading
 
-### Technology Proficiency
+## Technology Proficiency
 
-__Programming Languages__
+### Programming Languages
 - Python, PHP, Java, C, R
 
-__GNU/Linux__
+### GNU/Linux
 - Debian, bash, ssh
 
-__Databases__
+### Databases
 - Redis, NOSQL (Mongo), MySQL, elasticsearch
 
 
