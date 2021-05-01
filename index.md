@@ -57,6 +57,9 @@ __GNU/Linux__
 __Databases__
 - Redis, NOSQL (Mongo), MySQL, elasticsearch
 
+__Artificial Intelligence__
+- Deep learning, Classification, Clustering
+
 
 ## Languages
 
@@ -90,7 +93,7 @@ __Münster Info Hub @ Münsterhack__
 
 `2015`
 __Driver Telematics Analysis @ Kaggle__
-- feature engineering, machine learning (sklearn, random forests)
+- feature engineering, machine learning (Python, sklearn, random forest)
 - finished 92nd (> 1500 total)
 <!-- - setup a server with jupyterhub to enable team members -->
 
@@ -101,13 +104,14 @@ __Research & Development 2 @ RU Nijmegen__
 
 `2009`
 __Neurale Netwerkmodellen @ RU Nijmegen__
-- Handwritten digit recognition
-- Implementation of a Multi Layer Perceptron (MLP) + AdaBoost for MLP (Java)
+- Handwritten digit recognition (Java, MLP, AdaBoost)
+<!-- - Implementation of a Multi Layer Perceptron (MLP) + AdaBoost for MLP -->
 - Best result in class even beating the result of the professor's research group
 
 `2005`
-__Snake clone @ school__ 
-- Implemented as a Java Applet 
+__Snake clone @ school__
+- The classic game "snake" (Java Applet)
+<!-- - Implemented as a Java Applet -->
 - Reused code from my Tetris clone
 
 <!--
@@ -118,7 +122,7 @@ __Tetris clone @ school__
 
 `2003`
 __Login System @ private project__
-- Designed and implemented a login system for a friend's party photo page, a precursor of modern social network sites (PHP 2)
+- Designed and implemented a login system for a friend's party photo page, a precursor of modern social network sites (PHP 2, HTML)
 - Several hundred users, successfully prevented online harassment
 
 
