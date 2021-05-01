@@ -24,7 +24,7 @@ title: Jona Heidsick's CV
 `since 2020` 
 __Developer @ Trustami__, Berlin
 
-- Development of highly available machine learning systems for production (Python 3, sklearn, FastAPI)
+- Development of highly available machine learning systems (Python 3, sklearn, FastAPI)
 - API design and implementation (Python 3, FastAPI)
 - Diagnosis and improvement of legacy software systems (Python 2, PHP)
 - Data engineering (Redis, Mongo, MySQL)
@@ -134,7 +134,8 @@ __Tetris clone @ school__
 
 `2003`
 __Login system @ dren-fotografie.de__
-- Designed and implemented a user registration and login system for a friend's party photo page, a precursor of modern social network sites (PHP 2, HTML)
+- User registration and login system for a local event photo page (PHP 2, HTML)
+- A precursor of modern social network sites
 - Several hundred users, successfully prevented online harassment
 
 
