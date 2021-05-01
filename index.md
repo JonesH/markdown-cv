@@ -34,7 +34,7 @@ __System Administrator @ Betex__, Münster
 `2019`
 __Freelancer @ coding.ms__, Münster
 
-- Development of extensions for TYPO3 (PHP, TYPO3)
+- Full stack development of extensions for TYPO3 (PHP, TYPO3)
 - Setup and maintenance of cloud based systems (Debian)
 
 `2016-2017`
