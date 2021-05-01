@@ -98,16 +98,19 @@ __Neurale Netwerkmodellen @ RU Nijmegen__
 `2005`
 __Snake clone @ school__ 
 - Implemented as a Java Applet 
-- Reused code from Tetris clone (project for school a year earlier)
+- Reused code from my Tetris clone
 
+<!--
 `2004`
 __Tetris clone @ school__
 - Implemented as a Java Applet
+-->
 
 `2003`
 __Login System @ private project__
 - Designed and implemented a login system for a friend's party photo page (PHP 2)
 - Several hundred users
+- Precursor of modern social network sites
 
 
 <!-- ### Footer
