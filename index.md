@@ -75,14 +75,14 @@ __Immanuel Kant Gymnasium__, Münster
 
 `2019`
 __Münster Info Hub @ Münsterhack__
-- 2nd place and special price for nerdiest solution
 - Collection of information about local events from different sources (Python, scrapy)
+- 2nd place and special price for nerdiest solution
 
 `2015`
 __Driver Telematics Analysis @ Kaggle__
-- finished 92nd (> 1500 total)
 - feature engineering, machine learning (sklearn, random forests)
-- setup a server with jupyterhub to enable team members
+- finished 92nd (> 1500 total)
+<!-- - setup a server with jupyterhub to enable team members -->
 
 `2011`
 __Research & Development 2 @ RU Nijmegen__
@@ -91,8 +91,8 @@ __Research & Development 2 @ RU Nijmegen__
 
 `2009`
 __Neurale Netwerkmodellen @ RU Nijmegen__
-- Implementation of a Multilayer Perceptron in Java
-- Implemtation of AdaBoost for MLPs in Java
+- Handwritten digit recognition
+- Implementation of a Multi Layer Perceptron (MLP) + AdaBoost for MLP (Java)
 - Best result in class even beating the result of the professor's research group
 
 `2005`
@@ -108,9 +108,8 @@ __Tetris clone @ school__
 
 `2003`
 __Login System @ private project__
-- Designed and implemented a login system for a friend's party photo page (PHP 2)
-- Several hundred users
-- Precursor of modern social network sites
+- Designed and implemented a login system for a friend's party photo page, a precursor of modern social network sites (PHP 2)
+- Several hundred users, successfully prevented online harassment
 
 
 <!-- ### Footer
