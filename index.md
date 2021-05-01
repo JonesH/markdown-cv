@@ -45,7 +45,7 @@ __Freelancer @ coding.ms__, Münster
 
 `2016-2017`
 __Founder @ Better World Communications__, Nijmegen/NL
-- Development of secure communication channels for businesses (Android, Linux, OpenVPN)
+- Development of secure business communication channels (Android, Linux, OpenVPN)
 
 `since 2013`
 - Cryptocurrency consulting
