@@ -24,8 +24,8 @@ title: Jona Heidsick's CV
 `since 2020` 
 __Developer @ Trustami__, Berlin
 
-- Development of highly available Machine Learning systems for production (Python 3, sklearn, FastAPI)
-- API Design and implementation (Python 3, FastAPI)
+- Development of highly available machine learning systems for production (Python 3, sklearn, FastAPI)
+- API design and implementation (Python 3, FastAPI)
 - Diagnosis and improvement of legacy software systems (Python 2, PHP)
 - Data engineering (Redis, Mongo, MySQL)
 - Web scraping (scrapy, requests, aiohttp, httpx, curl)
@@ -46,7 +46,8 @@ __Freelancer @ coding.ms__, Münster
 
 `2016-2017`
 __Director @ Better World Communications__, Nijmegen/NL
-- System Architecture
+- Development of secure communication channels for businesses (Android, Linux, OpenVPN)
+- System architecture
 
 `since 2013`
 - Cryptocurrency consulting
