@@ -24,9 +24,8 @@ title: Jona Heidsick's CV
 `since 2020` 
 __Developer @ Trustami__, Berlin
 
-- Development of highly available machine learning systems (Python 3, sklearn, FastAPI)
-- API design and implementation (Python 3, FastAPI)
-- Diagnosis and improvement of legacy software systems (Python 2, PHP)
+- Highly available machine learning systems (Python 3, sklearn, FastAPI)
+- Legacy software systems (Python 2, PHP)
 - Data engineering (Redis, Mongo, MySQL)
 - Web scraping (scrapy, requests, aiohttp, httpx, curl)
 - Full stack (PHP, JS, HTML, CSS)
@@ -34,15 +33,15 @@ __Developer @ Trustami__, Berlin
 `2020`
 __System Administrator @ Betex__, Münster
 
-- Maintenance of Windows and Linux Systems (Windows Server, CentOS)
+- Maintenance Windows + Linux Systems (Windows Server, CentOS)
 - User management (AD)
 - 2nd level support
 
 `2019`
 __Freelancer @ coding.ms__, Münster
 
-- Full stack development of extensions for TYPO3 (PHP, TYPO3)
-- Setup and maintenance of cloud based systems (Debian)
+- Full stack (PHP, TYPO3)
+- Setup and integration of cloud based systems (Debian)
 
 `2016-2017`
 __Director @ Better World Communications__, Nijmegen/NL
@@ -84,7 +83,7 @@ __High performance computing__
 
 `since 2007`
 __Radboud University__, Nijmegen/NL
-- Computer Science + Artificial Intelligence with heavy focus on machine learning
+- Computer Science + Artificial Intelligence with focus on machine learning
 
 `1996-2006`
 __Immanuel Kant Gymnasium__, Münster
@@ -100,7 +99,7 @@ __Immanuel Kant Gymnasium__, Münster
 
 `2019`
 __Münster Info Hub @ Münsterhack__
-- Collection of information about local events from different sources (Python, scrapy)
+- Collecting information about regional events from different sources (Python, scrapy)
 - 2nd place and special price for nerdiest solution
 
 `2015`
