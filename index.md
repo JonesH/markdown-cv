@@ -59,10 +59,10 @@ __Databases__
 ## Education
 
 `1996-2006`
-__Immanuel Kant Gymnasium, Münster__
+__Immanuel Kant Gymnasium__, Münster
 
 `2007-2016`
-__Radboud University, Nijmegen__
+__Radboud University__, Nijmegen/NL
 - Computer Science, Artificial Intelligence
 
 ## Interests
