@@ -81,7 +81,7 @@ __High performance computing__
 
 ## Education
 
-`2007-2016`
+`since 2007`
 __Radboud University__, Nijmegen/NL
 - Computer Science + Artificial Intelligence with heavy focus on machine learning
 
