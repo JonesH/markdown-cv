@@ -1,4 +1,3 @@
-<link rel="stylesheet" media="screen" href="https://fontlibrary.org//face/fantasque-sans-mono" type="text/css"/>
 ---
 layout: cv
 title: Jona Heidsick's CV
