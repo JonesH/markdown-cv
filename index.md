@@ -25,7 +25,7 @@ __Developer @ Trustami__, Berlin
 `2020`
 __System Administrator @ Betex__, Münster
 
-- Maintanance of Windows and Linux Systems
+- Maintenance of Windows and Linux Systems
 - User management (AD)
 - 2nd level support
 
