@@ -133,8 +133,8 @@ __Tetris clone @ school__
 -->
 
 `2003`
-__Login System @ dren-fotografie.de__
-- Designed and implemented a login system for a friend's party photo page, a precursor of modern social network sites (PHP 2, HTML)
+__Login system @ dren-fotografie.de__
+- Designed and implemented a user registration and login system for a friend's party photo page, a precursor of modern social network sites (PHP 2, HTML)
 - Several hundred users, successfully prevented online harassment
 
 
