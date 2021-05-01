@@ -135,7 +135,6 @@ __Tetris clone @ school__
 `2003`
 __Login system @ dren-fotografie.de__
 - User registration and login system for a local event photo page (PHP 2, HTML)
-- A precursor of modern social network sites
 - Several hundred users, successfully prevented online harassment
 
 
