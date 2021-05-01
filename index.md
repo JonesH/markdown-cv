@@ -4,7 +4,7 @@ title: Jona Heidsick's CV
 ---
 # Jona M.J. Heidsick
 * 26.04.1986, Duisburg/Germany
-__Backend Engineer__, ML Engineer, Data Scientist, System Administrator, Computer Enthousiast, Technician
+* __Backend Engineer__, ML Engineer, Data Scientist, System Administrator, Computer Enthousiast, Technician
 
 
 <div id="webaddress">
@@ -45,16 +45,25 @@ __Director @ Better World Communications__, Nijmegen/NL
 - Cryptocurrency consulting
 - Cryptocurrency trading
 
+
 ## Technology Proficiency
 
-#### Programming Languages
+__Programming Languages__
 - Python, PHP, Java, C, R
 
-#### GNU/Linux
+__GNU/Linux__
 - Debian, bash, ssh
 
-#### Databases
+__Databases__
 - Redis, NOSQL (Mongo), MySQL, elasticsearch
+
+
+## Languages
+
+- German (native)
+- English (fluent)
+- Dutch (fluent)
+- Spanish (basic)
 
 
 ## Education
@@ -65,6 +74,7 @@ __Radboud University__, Nijmegen/NL
 
 `1996-2006`
 __Immanuel Kant Gymnasium__, Münster
+
 
 ## Interests
 
