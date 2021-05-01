@@ -49,10 +49,10 @@ __Director @ Better World Communications__, Nijmegen/NL
 #### Programming Languages
 - Python, PHP, Java, C, R
 
-### GNU/Linux
+#### GNU/Linux
 - Debian, bash, ssh
 
-### Databases
+#### Databases
 - Redis, NOSQL (Mongo), MySQL, elasticsearch
 
 
