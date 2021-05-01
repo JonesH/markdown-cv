@@ -54,7 +54,7 @@ __Director @ Better World Communications__, Nijmegen/NL
 - Cryptocurrency trading
 
 
-## Technology Proficiency
+## Technologies
 
 __Programming Languages__
 - Python, PHP, Java, C, R
