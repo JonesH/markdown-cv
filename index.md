@@ -4,11 +4,11 @@ title: Jona Heidsick's CV
 ---
 # Jona M.J. Heidsick 
 
+\*26.04.1986 in Duisburg/Germany
+
 ## Summary
 
-- \*26.04.1986 in Duisburg/Germany
-- Software Engineer
-- Focus on backend
+- Backend focussed Software Engineer
 - Clean code evangelist
 - Computer enthousiast for life
 
