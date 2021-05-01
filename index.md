@@ -3,6 +3,7 @@ layout: cv
 title: Jona Heidsick's CV
 ---
 # Jona M.J. Heidsick
+* 26.04.1986, Duisburg/Germany
 __Backend Engineer__, ML Engineer, Data Scientist, System Administrator, Computer Enthousiast, Technician
 
 
@@ -58,25 +59,55 @@ __Director @ Better World Communications__, Nijmegen/NL
 
 ## Education
 
-`1996-2006`
-__Immanuel Kant Gymnasium__, Münster
-
 `2007-2016`
 __Radboud University__, Nijmegen/NL
 - Computer Science, Artificial Intelligence
+
+`1996-2006`
+__Immanuel Kant Gymnasium__, Münster
 
 ## Interests
 
 - Technology, Cosmology, Physics, Music, Gaming
 
-<!-- do we need this? 
-## Achievements
 
-`2004`
-__Tetris clone as Java Applet__ (school project)
+## Some interesting projects
+
+`2019`
+__Münster Info Hub @ Münsterhack__
+- 2nd place and special price for nerdiest solution
+- Collection of information about local events from different sources (Python, scrapy)
+
+`2015`
+__Driver Telematics Analysis @ Kaggle__
+- finished 92nd (> 1500 total)
+- feature engineering, machine learning (sklearn, random forests)
+- setup a server with jupyterhub to enable team members
+
+`2011`
+__Research & Development 2 @ RU Nijmegen__
+- KNN dataset reduction (Python)
+- Best result in class
+
+`2009`
+__Neurale Netwerkmodellen @ RU Nijmegen__
+- Implementation of a Multilayer Perceptron in Java
+- Implemtation of AdaBoost for MLPs in Java
+- Best result in class even beating the result of the professor's research group
 
 `2005`
-__Snake clone by reusing Code from Tetris__ 
+__Snake clone @ school__ 
+- Implemented as a Java Applet 
+- Reused code from Tetris clone (project for school a year earlier)
+
+`2004`
+__Tetris clone @ school__
+- Implemented as a Java Applet
+
+`2003`
+__Login System @ private project__
+- Designed and implemented a login system for a friend's party photo page (PHP 2)
+- Several hundred users
 
 
 <!-- ### Footer
