@@ -8,7 +8,7 @@ title: Jona Heidsick's CV
 
 ## Summary
 
-- Backend focussed Software Engineer
+- Python Backend Engineer
 - Clean code evangelist
 - Computer enthousiast for life
 
