@@ -61,7 +61,7 @@ __Immanuel Kant Gymnasium, Münster__
 
 `2007-2016`
 __Radboud University, Nijmegen__
-- Artificial Intelligence, Computer Science
+- Computer Science, Artificial Intelligence
 
 <!-- do we need this? 
 ## Achievements
