@@ -14,9 +14,8 @@ __Backend Engineer__, Data Scientist, System Administrator, Computer Enthousiast
 ## Occupation
 
 `since 2020` 
-__Trustami__, Berlin
+__Developer @ Trustami__, Berlin
 
-- __Developer__
 - Development of highly available Machine Learning systems for production
 - API Design and implementation
 - Diagnosis and improvement of legacy software
@@ -24,24 +23,21 @@ __Trustami__, Berlin
 - Web scraping
 
 `2020`
-__Betex__, Münster
+__System Administrator @ Betex__, Münster
 
-- __System Administrator__
 - Maintanance of Windows and Linux Systems
 - User management (AD)
 - 2nd level support
 
 `2019`
-__coding.ms__, Münster
+__Freelancer @ coding.ms__, Münster
 
-- __Freelancer__
 - Development of extensions for TYPO3 
 - Setup and maintenance of cloud based systems
 
 `2016-2017`
-__Better World Communications__, Nijmegen/NL
+__Director @ Better World Communications__, Nijmegen/NL
 
-- __Director__
 - System Architecture
 
 
