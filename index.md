@@ -3,7 +3,7 @@ layout: cv
 title: Jona Heidsick's CV
 ---
 # Jona M.J. Heidsick
-Python/Backend/ML Engineer
+Backend Engineer
 
 
 <div id="webaddress">
@@ -11,18 +11,46 @@ Python/Backend/ML Engineer
 </div>
 
 
-## Currently
+## Occupation
 
-Working at trustami
+`since 2020` 
+__Trustami__, Berlin
 
-### Specialized in
+- Development of highly available Machine Learning systems for production
+- API Design and implementation
+- Diagnosis and improvement of legacy software
+- Data engineering
+- Web scraping
 
-Data engineering, data transformation
+`2020`
+__Betex__, Münster
+
+- System Administration Windows and Linux Systems
+- 2nd level support
+
+`2019`
+__coding.ms__
+
+- Development of extensions for TYPO3 
+- Setup and maintenance of cloud based systems
 
 
-### Research interests
+### Programming Languages
 
-Consciousness, Physics
+__Python__
+
+PHP, Java, C, R
+
+### Technologies
+
+__Programming__
+__Python__, Java, C, R
+
+__GNU/Linux__
+debian, bash, ssh
+
+__Databases__
+Redis, NOSQL (Mongo), (My/Postgres)SQL, elasticsearch
 
 
 ## Education
@@ -30,21 +58,15 @@ Consciousness, Physics
 `1996-2006`
 __Immanuel Kant Gymnasium, Münster__
 
-
-## Publications
-
-
-`2012`
-The computational Universe
+`since 2007`
+__Radboud University, Nijmegen__
+Artificial Intelligence, Computer Science
 
 
-## Occupation
+## (Student) Projects
 
-`2020`
-__Trustami__, Berlin
-
-- Developer
-- ML Engineer
+`2004`
+__Tetris clone as Java Applet__ (school project)
 
 
 <!-- ### Footer
