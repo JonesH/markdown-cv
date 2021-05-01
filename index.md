@@ -105,8 +105,8 @@ __Münster Info Hub @ Münsterhack__
 
 `2015`
 __Driver Telematics Analysis @ Kaggle__
-- feature engineering, machine learning (Python, sklearn, random forest)
-- finished 92nd (> 1500 total)
+- Feature engineering, machine learning (Python, sklearn, random forest)
+- Finished 92nd (> 1500 total)
 <!-- - setup a server with jupyterhub to enable team members -->
 
 `2011`
