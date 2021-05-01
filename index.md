@@ -96,7 +96,7 @@ __Immanuel Kant Gymnasium__, Münster
 - Technology, Cosmology, Physics, Music, Gaming
 
 
-## Some interesting projects
+## Projects
 
 `2019`
 __Münster Info Hub @ Münsterhack__
