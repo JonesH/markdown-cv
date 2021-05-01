@@ -14,9 +14,9 @@ Backend Engineer
 ## Occupation
 
 `since 2020` 
-__Trustami, Berlin__
+__Trustami__, Berlin
 
-- _Developer
+- __Developer__
 - Development of highly available Machine Learning systems for production
 - API Design and implementation
 - Diagnosis and improvement of legacy software
@@ -24,44 +24,38 @@ __Trustami, Berlin__
 - Web scraping
 
 `2020`
-__Betex, Münster__
+__Betex__, Münster
 
-- _System Administrator
+- __System Administrator__
 - Maintanance of Windows and Linux Systems
 - User management (AD)
 - 2nd level support
 
 `2019`
-__coding.ms, Münster__
+__coding.ms__, Münster
 
-- _Freelancer
+- __Freelancer__
 - Development of extensions for TYPO3 
 - Setup and maintenance of cloud based systems
 
 `2016-2017`
-__Better World Communications__
+__Better World Communications__, Nijmegen/NL
 
-- _Director
+- __Director__
+- System Architecture
+
 
 ### Technology Proficiency
 
 __Programming Languages__
 - __Python__
-- PHP
-- Java
-- C
-- R
+- PHP, Java, C, R
 
 __GNU/Linux__
-- debian
-- bash
-- ssh
+- debian, bash, ssh
 
 __Databases__
-- Redis
-- NOSQL (Mongo)
-- (My/Postgres)SQL
-- elasticsearch
+- Redis, NOSQL (Mongo), MySQL, elasticsearch
 
 
 ## Education
