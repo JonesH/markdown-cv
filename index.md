@@ -3,7 +3,7 @@ layout: cv
 title: Jona Heidsick's CV
 ---
 # Jona M.J. Heidsick
-Backend Engineer
+__Backend Engineer__, Data Scientist, System Administrator, Computer Enthousiast
 
 
 <div id="webaddress">
@@ -63,19 +63,19 @@ __Databases__
 `1996-2006`
 __Immanuel Kant Gymnasium, Münster__
 
-`since 2007`
+`2007-2016`
 __Radboud University, Nijmegen__
 Artificial Intelligence, Computer Science
 
-<!-- do we need this?
-## (Student) Projects
+<!-- do we need this? 
+## Achievements
 
 `2004`
 __Tetris clone as Java Applet__ (school project)
 
 `2005`
-__Snake clone by reusing Code from Tetris__
--->
+__Snake clone by reusing Code from Tetris__ 
+
 
 <!-- ### Footer
 
