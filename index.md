@@ -46,7 +46,7 @@ __Director @ Better World Communications__, Nijmegen/NL
 
 ## Technology Proficiency
 
-### Programming Languages
+#### Programming Languages
 - Python, PHP, Java, C, R
 
 ### GNU/Linux
