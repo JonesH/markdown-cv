@@ -2,14 +2,15 @@
 layout: cv
 title: Jona Heidsick's CV
 ---
-# Jona M.J. Heidsick
-* 26.04.1986, Duisburg/Germany
-* __Backend Engineer__, ML Engineer, Data Scientist, System Administrator, Computer Enthousiast, Technician
+# Jona M.J. Heidsick 
+(26.04.1986 @ Duisburg/Germany)
+__Backend Engineer__, ML Engineer, Data Scientist, System Administrator <!--, Computer Enthousiast, Technician-->
 
-
+<!--
 <div id="webaddress">
 <a href="jona.heidsick@gmail.com">jona.heidsick@gmail.com</a>
 </div>
+-->
 
 
 ## Occupation
