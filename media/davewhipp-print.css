@@ -57,7 +57,8 @@ body {
 	line-height: 1.35em;
 	/*also written as...  font: normal normal 400 100%/1.5em;*/
 	/*font-family: Avenir,Verdana,sans-serif;*/
-	font-family: 'FantasqueSansMonoRegular';
+	/*font-family: 'FantasqueSansMonoRegular';*/
+	font-family: 'HackRegular';
    	font-weight: normal;
    	font-style: normal; 
 	/*margin-top: 1em;
@@ -119,8 +120,9 @@ li ul {
 h1,h2,h3,h4 {
 	font-weight: 400;
 	/*font-family: Avenir,Cousine,Verdana,sans-serif;	*/
-	font-family: 'FantasqueSansMonoRegular';
-	width: 80%;
+	/*font-family: 'FantasqueSansMonoRegular'; */
+	font-family: 'HackRegular';
+	width: 100%;
 }
 
 h1 {
