@@ -3,8 +3,14 @@ layout: cv
 title: Jona Heidsick's CV
 ---
 # Jona M.J. Heidsick 
-(26.04.1986 @ Duisburg/Germany)
-__Backend Engineer__, ML Engineer, Data Scientist, System Administrator <!--, Computer Enthousiast, Technician-->
+
+## Summary
+
+- \*26.04.1986 in Duisburg/Germany
+- Software Engineer
+- Focus on backend
+- Clean code evangelist
+- Computer enthousiast for life
 
 <!--
 <div id="webaddress">
@@ -61,6 +67,9 @@ __Databases__
 __Artificial Intelligence__
 - Deep learning, Classification, Clustering
 
+__High performance computing__
+- CUDA, numpy, parallelization, optimization
+
 
 ## Languages
 
@@ -74,10 +83,11 @@ __Artificial Intelligence__
 
 `2007-2016`
 __Radboud University__, Nijmegen/NL
-- Computer Science, Artificial Intelligence
+- Computer Science + Artificial Intelligence with heavy focus on machine learning
 
 `1996-2006`
 __Immanuel Kant Gymnasium__, Münster
+- Informatics since 2000
 
 
 ## Interests
@@ -107,7 +117,7 @@ __Research & Development 2 @ RU Nijmegen__
 __Neurale Netwerkmodellen @ RU Nijmegen__
 - Handwritten digit recognition (Java, MLP, AdaBoost)
 <!-- - Implementation of a Multi Layer Perceptron (MLP) + AdaBoost for MLP -->
-- Best result in class even beating the result of the professor's research group
+- Best result in class, beating the professor's research group
 
 `2005`
 __Snake clone @ school__
