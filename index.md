@@ -49,7 +49,7 @@ __Founder @ Better World Communications__, Nijmegen/NL
 
 `since 2013`
 __Self employed__
-- Cryptocurrency trading & consulting
+- Cryptocurrency trading and consulting
 
 
 ## Technologies
