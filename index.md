@@ -21,7 +21,15 @@ title: Jona Heidsick's CV
 
 ## Occupation
 
-`since 2020` 
+`since 2021`
+__Senior Backend Developer @ Nooxit__, Berlin
+
+- Building micro services (Python 3, GraphQL, gRPC, SQL)
+- Advocating clean code and architecture principles
+- Ensuring code quality
+- Mentoring colleagues
+
+`2020-2021` 
 __Developer @ Trustami__, Berlin
 
 - Highly available machine learning systems (Python 3, sklearn, FastAPI)
