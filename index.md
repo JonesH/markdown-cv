@@ -10,8 +10,8 @@ title: Jona Heidsick's CV
 
 - Python Backend Engineer
 - Clean code evangelist
-- Computer enthousiast for life
-- Metaprogrammer
+- Computer enthusiast for life
+- Meta programmer
 
 <!--
 <div id="webaddress">
