@@ -24,7 +24,7 @@ title: Jona Heidsick's CV
 `since 2021`
 __Senior Backend Developer @ Nooxit__, Berlin
 
-- Building micro services (Python 3, GraphQL, gRPC, SQL)
+- Building micro services (Python 3, GraphQL, gRPC, SQL, Kafka)
 - Advocating clean code and architecture principles
 - Ensuring code quality
 - Mentoring colleagues
@@ -69,13 +69,19 @@ __GNU/Linux__
 - Debian, Bash, SSH
 
 __Databases__
-- Redis, NOSQL (Mongo), MySQL, Elasticsearch
+- Redis, NOSQL (Mongo), SQLAlchemy, Elasticsearch
 
 __Artificial Intelligence__
 - Deep learning, Classification, Clustering
 
 __High performance computing__
 - CUDA, Numpy, Parallelization, Optimization
+
+__Cloud__
+- Kubernetes, Docker, Terraform, Helm
+
+__Interfaces__
+- FastAPI, graphene, protobuf
 
 
 ## Languages
