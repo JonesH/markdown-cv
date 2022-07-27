@@ -85,30 +85,6 @@ __Interfaces__
 - FastAPI, graphene, protobuf
 
 
-## Languages
-
-- German (native)
-- English (fluent)
-- Dutch (fluent)
-- Spanish (basic)
-
-
-## Education
-
-`since 2007`
-__Radboud University__, Nijmegen/NL
-- Computer Science + Artificial Intelligence with focus on machine learning
-
-`1996-2006`
-__Immanuel Kant Gymnasium__, Münster
-- Informatics since 2000
-
-
-## Interests
-
-- Technology, Cosmology, Physics, Music, Gaming
-
-
 ## Projects
 
 `2019`
@@ -150,6 +126,30 @@ __Login system @ dren-fotografie.de__
 - User registration and login system for a local event photo page (PHP 2, HTML)
 - Several hundred users, successfully prevented online harassment
 
+
+
+## Languages
+
+- German (native)
+- English (fluent)
+- Dutch (fluent)
+- Spanish (basic)
+
+
+## Education
+
+`since 2007`
+__Radboud University__, Nijmegen/NL
+- Computer Science + Artificial Intelligence with focus on machine learning
+
+`1996-2006`
+__Immanuel Kant Gymnasium__, Münster
+- Informatics since 2000
+
+
+## Interests
+
+- Technology, Cosmology, Physics, Music, Gaming, 1337 code
 
 <!-- ### Footer
 
