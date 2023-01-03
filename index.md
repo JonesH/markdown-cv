@@ -6,6 +6,10 @@ title: Jona Heidsick's CV
 
 \*26.04.1986 in Duisburg/Germany
 
++4915229037577
+
+jona.heidsick@gmail.com
+
 ## Summary
 
 - Python Backend Engineer
@@ -22,13 +26,22 @@ title: Jona Heidsick's CV
 
 ## Occupation
 
-`since 2021`
+`since 11-2022`
+__Senior Backend Developer @ Tempest__, Berlin
+
+- Develop and fix micro services (Python 3, REST, Redis, FastAPI)
+- Push and coordinate for automatic code style guidelines (pre-commit)
+- Code reviews
+- Design reviews
+
+`2021-2022`
 __Senior Backend Developer @ Nooxit__, Berlin
 
-- Building micro services (Python 3, GraphQL, gRPC, SQL, Kafka)
-- Advocating clean code and architecture principles
+- Build micro services (Python 3, GraphQL, gRPC, SQL, Kafka)
+- Advocate for clean code and architecture principles
 - Ensuring code quality
-- Mentoring colleagues
+- Mentor colleagues
+- Reduce and prevent technical debt
 
 `2020-2021` 
 __Developer @ Trustami__, Berlin
@@ -82,7 +95,7 @@ __Cloud__
 - Kubernetes, Docker, Terraform, Helm
 
 __Interfaces__
-- FastAPI, graphene, protobuf
+- FastAPI/REST, graphene/GraphQL, protobuf/gRPC
 
 
 ## Projects
@@ -149,10 +162,10 @@ __Immanuel Kant Gymnasium__, Münster
 
 ## Interests
 
-- Technology, Cosmology, Physics, Music, Gaming, 1337 code
+- Cooking, Technology, Cosmology, Physics, Music, Gaming, 1337 code
 
 <!-- ### Footer
 
-Last updated: May 2021 -->
+Last updated: January 2022 -->
 
 
