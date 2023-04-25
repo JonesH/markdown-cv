@@ -30,8 +30,8 @@ jona.heidsick@gmail.com
 `2022-2023`
 __Senior Backend Developer @ Tempest__, Berlin
 
-- Develop and fix micro services (Python 3, REST, Redis, FastAPI)
-- Push and coordinate for automatic code style guidelines (pre-commit)
+- Develop and fix micro services (Python 3, REST, Redis, FastAPI, protobuf)
+- Implement automatic code style guidelines (pre-commit)
 - Code reviews
 - Design reviews
 
@@ -41,7 +41,7 @@ __Senior Backend Developer @ Nooxit__, Berlin
 - Build micro services (Python 3, GraphQL, gRPC, SQL, Kafka)
 - Advocate for clean code and architecture principles
 - Ensure code quality
-- Mentor colleagues
+- Onboarding new colleagues
 - Reduce and prevent technical debt
 
 `2020-2021` 
@@ -56,14 +56,14 @@ __Developer @ Trustami__, Berlin
 `2020`
 __System Administrator @ Betex__, Münster
 
-- Maintenance Windows + Linux Systems (Windows Server, CentOS)
+- Maintain Windows + Linux Systems (Windows Server, CentOS)
 - User management (AD)
 - 2nd level support
 
 `2019`
 __Freelancer @ coding.ms__, Münster
 
-- Full stack web development(PHP, TYPO3)
+- Full stack web development (PHP, TYPO3)
 - Setup and integration of cloud based systems (Debian)
 - Database migrations (MySQL)
 
