@@ -153,7 +153,7 @@ __Login system @ dren-fotografie.de__
 
 ## Education
 
-`since 2007`
+`2007-2018`
 __Radboud University__, Nijmegen/NL
 - Computer Science + Artificial Intelligence with focus on machine learning
 
