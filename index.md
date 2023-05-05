@@ -4,11 +4,14 @@ title: Jona Heidsick's CV
 ---
 # Jona M.J. Heidsick 
 
-\*26.04.1986 in Duisburg/Germany
+[//]: # ()
+[//]: # (\*26.04.1986 in Duisburg/Germany)
 
-+4915229037577
+[//]: # ()
+[//]: # (+4915229037577)
 
-jona.heidsick@gmail.com
+[//]: # ()
+[//]: # (jona.heidsick@gmail.com)
 
 ## Summary
 
