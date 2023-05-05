@@ -14,7 +14,7 @@ jona.heidsick@gmail.com
 
 - Python Backend Engineer
 - Clean code evangelist
-- Computer enthusiast for life
+- DevOps enthusiast
 
 <!--
 <div id="webaddress">
@@ -28,28 +28,26 @@ jona.heidsick@gmail.com
 `2022-2023`
 __Senior Backend Developer @ Tempest__, Berlin
 
-- Develop and fix micro services (Python 3, REST, Redis, FastAPI, protobuf)
+- Develop and maintain micro services (Python 3, REST, Redis, FastAPI, protobuf)
 - Implement automatic code style guidelines (pre-commit)
-- Code reviews
-- Design reviews
+- Conduct code and design reviews to ensure best practices
 
 `2021-2022`
 __Senior Backend Developer @ Nooxit__, Berlin
 
 - Build micro services (Python 3, GraphQL, gRPC, SQL, Kafka)
 - Advocate for clean code and architecture principles
-- Ensure code quality
-- Onboarding new colleagues
+- Onboarde and mentor new colleagues
 - Reduce and prevent technical debt
 
 `2020-2021` 
 __Developer @ Trustami__, Berlin
 
-- Highly available machine learning systems (Python 3, sklearn, FastAPI)
-- Legacy software systems (Python 2, PHP)
+- Build highly available machine learning systems (Python 3, sklearn, FastAPI)
+- Maintain legacy software systems (Python 2, PHP)
 - Data engineering (Redis, Mongo, MySQL)
 - Web scraping (scrapy, requests, aiohttp, httpx, curl)
-- Full stack (PHP, JS, HTML, CSS)
+- Full stack development (PHP, JS, HTML, CSS)
 
 `2020`
 __System Administrator @ Betex__, Münster
