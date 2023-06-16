@@ -89,7 +89,7 @@ __Artificial Intelligence__
 - Deep Learning: Well-versed in deep learning techniques for tasks such as classification and clustering.
 
 __High performance computing__
-- Parallelization: Proficient in parallelization techniques using libraries like CUDA or NumPy for high-performance computing.
+- Parallelization: Proficient in parallelization techniques using libraries like CUDA or NumPy.
 
 <!--
 ## Technologies
