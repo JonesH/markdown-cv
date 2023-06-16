@@ -91,7 +91,7 @@ __Artificial Intelligence__
 __High performance computing__
 - Parallelization: Proficient in implementing parallelization techniques using libraries like CUDA or NumPy to leverage high-performance computing capabilities.
 
-
+<!--
 ## Technologies
 
 __Programming Languages__
@@ -108,7 +108,7 @@ __Cloud__
 
 __Interfaces__
 - FastAPI/REST, graphene/GraphQL, protobuf/gRPC
-
+-->
 
 ## Projects
 
