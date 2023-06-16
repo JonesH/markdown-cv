@@ -110,6 +110,15 @@ __Interfaces__
 - FastAPI/REST, graphene/GraphQL, protobuf/gRPC
 -->
 
+
+## Volunteer
+
+`2023`
+__ReDI School of Digital Integration__
+- Volunteered as a teacher and mentor, teaching "Coding Fundamentals" courses.
+- Demonstrated commitment and contributed to a supportive learning environment.
+
+
 ## Projects
 
 `2019`
@@ -154,14 +163,6 @@ __Login system @ dren-fotografie.de__
 - User registration and login system for a local event photo page (PHP 2, HTML)
 - Several hundred users, successfully prevented online harassment
 -->
-
-
-## Volunteer
-
-`2023`
-__ReDI School of Digital Integration__
-- Volunteered as a teacher and mentor, teaching "Coding Fundamentals" courses.
-- Demonstrated commitment and contributed to a supportive learning environment.
 
 
 ## Languages
