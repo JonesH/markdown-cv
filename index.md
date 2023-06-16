@@ -158,6 +158,8 @@ __Login system @ dren-fotografie.de__
 
 ## Volunteer
 
+`2023`
+__ReDI School of Digital Integration__
 - Volunteered as a teacher and mentor, teaching "Coding Fundamentals" courses.
 - Demonstrated commitment and contributed to a supportive learning environment.
 
