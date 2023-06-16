@@ -52,7 +52,7 @@ __Developer @ Trustami__, Berlin
 - Implemented highly available language detection system using Redis.
 - Created ETL pipeline for language enrichment of review texts using MongoDB.
 - Maintained legacy software in Python 2 and PHP.
-- Configured and deployed Elasticsearch to store and index review texts, ensuring efficient search and retrieval capabilities.
+- Configured and deployed Elasticsearch for efficient search and retrieval of review texts.
 
 `2019`
 __Freelancer @ coding.ms__, Münster
@@ -83,13 +83,13 @@ __Data__
 - Transformation: Skilled in using Python and other efficient technologies for data transformation.
 - Loading and Formatting: Capable of loading and formatting data into the desired format in memory.
 - Validation: Experienced in performing data validation to ensure accuracy and integrity.
-- Optimization: Knowledgeable in optimizing data operations, including indexing techniques, to improve query performance.
+- Optimization: Knowledgeable in optimizing data operations to improve query performance.
 
 __Artificial Intelligence__
 - Deep Learning: Well-versed in deep learning techniques for tasks such as classification and clustering.
 
 __High performance computing__
-- Parallelization: Proficient in implementing parallelization techniques using libraries like CUDA or NumPy to leverage high-performance computing capabilities.
+- Parallelization: Proficient in parallelization techniques using libraries like CUDA or NumPy for high-performance computing.
 
 <!--
 ## Technologies
