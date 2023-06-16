@@ -114,13 +114,14 @@ __Interfaces__
 
 `2019`
 __Münster Info Hub @ Münsterhack__
-- Collect and provide information about events from heterogeneous sources (Python, Scrapy, Elasticsearch)
-- 2nd place and special price for nerdiest solution
+- Collected and provided information about events from heterogeneous sources using Python, Scrapy, and Elasticsearch.
+- Achieved 2nd place and received a special prize for the nerdiest solution.
 
 `2015`
 __Driver Telematics Analysis @ Kaggle__
-- Feature engineering, machine learning (Python, sklearn, random forest)
-- Top 100 result (> 1500 total)
+- Conducted feature engineering and applied machine learning techniques using Python, sklearn, and random forest.
+- Achieved a top 100 result out of over 1500 total submissions.
+
 <!-- - setup a server with jupyterhub to enable team members -->
 
 <!--
