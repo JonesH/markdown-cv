@@ -32,56 +32,65 @@ title: Jona Heidsick's CV
 `2022-2023`
 __Senior Backend Developer @ Tempest__, Berlin
 
-- Responsible for maintaining and enhancing microservices using Python 3, REST, Redis, FastAPI, and protobuf.
-- Implemented optimizations in the ETL (Extract, Transform, Load) pipeline to minimize latency and improve data processing efficiency.
-- Successfully introduced automatic code style guidelines (pre-commit) to enforce consistent and clean code across the codebase.
-- Conducted thorough code and design reviews, ensuring adherence to best practices and promoting high-quality development standards.
+- Maintained and enhanced microservices using Python 3, REST, Redis, FastAPI, and protobuf.
+- Optimized ETL pipeline for improved latency and data processing efficiency.
+- Introduced automatic code style guidelines (pre-commit) for consistent and clean code.
+- Conducted code and design reviews, ensuring high-quality development practices.
 
 `2021-2022`
 __Senior Backend Developer @ Nooxit__, Berlin
 
-- Built and maintained microservices using Python 3, GraphQL, gRPC, SQL, and Kafka, ensuring efficient and scalable systems.
-- Advocated for clean code and architecture principles, driving the adoption of best practices within the development team.
-- Onboarded and mentored other developers, facilitating their growth and fostering a collaborative and knowledge-sharing environment.
-- Successfully reduced and prevented technical debt by strategically restructuring domains, improving code maintainability and system stability.
+- Built and maintained microservices using Python 3, GraphQL, gRPC, SQL, and Kafka.
+- Advocated clean code and architecture principles, driving best practices adoption.
+- Mentored developers, fostering collaboration and knowledge-sharing.
+- Reduced technical debt through strategic domain restructuring.
 
 `2020-2021` 
 __Developer @ Trustami__, Berlin
 
-- Developed a comprehensive system using Python 3, scrapy, sklearn, and FastAPI for effective detection of fake shops, ensuring the trustworthiness of online platforms. 
-- Implemented a highly available system for language detection utilizing Redis, enabling real-time and accurate language identification
-- Designed and implemented an ETL pipeline leveraging MongoDB to enrich approximately 1 billion review texts with detected language information, enabling a new product.
-- Maintained legacy software systems written in Python 2 and PHP, ensuring their stability and addressing any issues that arose.
+- Developed a comprehensive system for fake shop detection using Python 3, scrapy, sklearn, and FastAPI.
+- Implemented highly available language detection system using Redis.
+- Created ETL pipeline for language enrichment of review texts using MongoDB.
+- Maintained legacy software in Python 2 and PHP.
+- Configured and deployed Elasticsearch to store and index review texts, ensuring efficient search and retrieval capabilities.
 
 `2019`
 __Freelancer @ coding.ms__, Münster
 
-- Engaged in full-stack web development using PHP and TYPO3, contributing to the creation of dynamic and robust websites.
-- Specialized in setting up and integrating cloud-based systems on Debian, ensuring efficient and scalable infrastructure for clients.
-- Demonstrated expertise in engineering database migrations, utilizing MySQL to seamlessly transfer and transform data between systems.
+- Engaged in full-stack web development with PHP and TYPO3.
+- Specialized in setting up and integrating cloud-based systems on Debian.
+- Executed database migrations using MySQL.
 
 `2016-2019`
 __Founder @ Better World Communications__, Nijmegen/NL
-- Founded and led Better World Communications, specializing in the development of secure business communication channels.
-- Developed secure communication channels for Android and Linux platforms, implementing robust encryption protocols and leveraging technologies such as OpenVPN.
-- Ensured the confidentiality, integrity, and availability of sensitive business communications, providing clients with reliable and secure solutions.
+
+- Founded and led Better World Communications, specializing in secure business communication channels.
+- Developed secure communication channels for Android and Linux platforms, leveraging OpenVPN.
+- Ensured confidentiality, integrity, and availability of sensitive business communications.
 
 `2013-2016`
 __Self employed__
-- Engaged in cryptocurrency trading and provided consulting services to clients in the cryptocurrency market.
-- Demonstrated expertise in analyzing market trends, executing trades, and managing investment portfolios in the dynamic world of cryptocurrencies.
-- Offered valuable insights and guidance to clients, helping them navigate the complexities of the cryptocurrency market and make informed investment decisions.
+
+- Engaged in cryptocurrency trading and provided consulting services.
+- Analyzed market trends, executed trades, and managed investment portfolios.
+- Offered insights and guidance for informed decision-making in the cryptocurrency market.
+
 
 ## Skills
 
 __Data__
-- 
+- Extraction: Proficient in extracting data from various sources.
+- Transformation: Skilled in using Python and other efficient technologies for data transformation.
+- Loading and Formatting: Capable of loading and formatting data into the desired format in memory.
+- Validation: Experienced in performing data validation to ensure accuracy and integrity.
+- Optimization: Knowledgeable in optimizing data operations, including indexing techniques, to improve query performance.
 
 __Artificial Intelligence__
-- Deep learning, Classification, Clustering
+- Deep Learning: Well-versed in deep learning techniques for tasks such as classification and clustering.
 
 __High performance computing__
-- Parallelization, Optimisation
+- Parallelization: Proficient in implementing parallelization techniques using libraries like CUDA or NumPy to leverage high-performance computing capabilities.
+
 
 ## Technologies
 
@@ -92,7 +101,7 @@ __GNU/Linux__
 - Debian, Bash, SSH
 
 __Databases__
-- Redis, NOSQL (Mongo), SQLAlchemy, Elasticsearch
+- Redis, NOSQL (Mongo), SQL, Elasticsearch
 
 __Cloud__
 - AWS, Kubernetes, Docker, Terraform, Helm
