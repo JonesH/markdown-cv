@@ -16,8 +16,9 @@ title: Jona Heidsick's CV
 ## Summary
 
 - Python Backend Engineer
+- Code quality advocate
 - Passionate about data
-- Track record in teaching and mentoring programmers
+- Track record in optimising for performance
 
 <!--
 <div id="webaddress">
@@ -26,48 +27,61 @@ title: Jona Heidsick's CV
 -->
 
 
-## Occupation
+## Experience
 
 `2022-2023`
 __Senior Backend Developer @ Tempest__, Berlin
 
-- Maintain and optimise micro services (Python 3, REST, Redis, FastAPI, protobuf)
-- Implement automatic code style guidelines (pre-commit)
-- Conduct code and design reviews to ensure best practices
-- Optimise redis database structure for high performance access
+- Responsible for maintaining and enhancing microservices using Python 3, REST, Redis, FastAPI, and protobuf.
+- Implemented optimizations in the ETL (Extract, Transform, Load) pipeline to minimize latency and improve data processing efficiency.
+- Successfully introduced automatic code style guidelines (pre-commit) to enforce consistent and clean code across the codebase.
+- Conducted thorough code and design reviews, ensuring adherence to best practices and promoting high-quality development standards.
 
 `2021-2022`
 __Senior Backend Developer @ Nooxit__, Berlin
 
-- Build and maintain micro services (Python 3, GraphQL, gRPC, SQL, Kafka)
-- Advocate for clean code and architecture principles
-- Onboarde and mentor other developers
-- Reduce and prevent technical debt
+- Built and maintained microservices using Python 3, GraphQL, gRPC, SQL, and Kafka, ensuring efficient and scalable systems.
+- Advocated for clean code and architecture principles, driving the adoption of best practices within the development team.
+- Onboarded and mentored other developers, facilitating their growth and fostering a collaborative and knowledge-sharing environment.
+- Successfully reduced and prevented technical debt by strategically restructuring domains, improving code maintainability and system stability.
 
 `2020-2021` 
 __Developer @ Trustami__, Berlin
 
-- Build highly available machine learning systems (Python 3, sklearn, FastAPI)
-- Maintain legacy software systems (Python 2, PHP)
-- Data engineering (Redis, Mongo, MySQL)
-- Web scraping (scrapy, requests, aiohttp, httpx, curl)
-- Full stack development (PHP, JS, HTML, CSS)
+- Developed a comprehensive system using Python 3, scrapy, sklearn, and FastAPI for effective detection of fake shops, ensuring the trustworthiness of online platforms. 
+- Implemented a highly available system for language detection utilizing Redis, enabling real-time and accurate language identification
+- Designed and implemented an ETL pipeline leveraging MongoDB to enrich approximately 1 billion review texts with detected language information, enabling a new product.
+- Maintained legacy software systems written in Python 2 and PHP, ensuring their stability and addressing any issues that arose.
 
 `2019`
 __Freelancer @ coding.ms__, Münster
 
-- Full stack web development (PHP, TYPO3)
-- Setup and integration of cloud based systems (Debian)
-- Database migrations (MySQL)
+- Engaged in full-stack web development using PHP and TYPO3, contributing to the creation of dynamic and robust websites.
+- Specialized in setting up and integrating cloud-based systems on Debian, ensuring efficient and scalable infrastructure for clients.
+- Demonstrated expertise in engineering database migrations, utilizing MySQL to seamlessly transfer and transform data between systems.
 
 `2016-2019`
 __Founder @ Better World Communications__, Nijmegen/NL
-- Development of secure business communication channels (Android, Linux, OpenVPN)
+- Founded and led Better World Communications, specializing in the development of secure business communication channels.
+- Developed secure communication channels for Android and Linux platforms, implementing robust encryption protocols and leveraging technologies such as OpenVPN.
+- Ensured the confidentiality, integrity, and availability of sensitive business communications, providing clients with reliable and secure solutions.
 
 `2013-2016`
 __Self employed__
-- Cryptocurrency trading and consulting
+- Engaged in cryptocurrency trading and provided consulting services to clients in the cryptocurrency market.
+- Demonstrated expertise in analyzing market trends, executing trades, and managing investment portfolios in the dynamic world of cryptocurrencies.
+- Offered valuable insights and guidance to clients, helping them navigate the complexities of the cryptocurrency market and make informed investment decisions.
 
+## Skills
+
+__Data__
+- 
+
+__Artificial Intelligence__
+- Deep learning, Classification, Clustering
+
+__High performance computing__
+- Parallelization, Optimisation
 
 ## Technologies
 
@@ -79,12 +93,6 @@ __GNU/Linux__
 
 __Databases__
 - Redis, NOSQL (Mongo), SQLAlchemy, Elasticsearch
-
-__Artificial Intelligence__
-- Deep learning, Classification, Clustering
-
-__High performance computing__
-- CUDA, Numpy, Parallelization, Optimization
 
 __Cloud__
 - AWS, Kubernetes, Docker, Terraform, Helm
