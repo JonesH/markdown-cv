@@ -32,15 +32,15 @@ jona.heidsick@gmail.com
 `2022-2023`
 __Senior Backend Developer @ Tempest__, Berlin
 
-- Maintained and enhanced microservices using Python 3, REST, Redis, FastAPI, and protobuf.
+- Maintained and enhanced microservices using Redis, FastAPI and protobuf.
 - Optimized ETL pipeline for improved latency and data processing efficiency.
-- Introduced automatic code style guidelines (pre-commit) for consistent and clean code.
+- Introduced automatic code style guidelines for consistent and clean code.
 - Conducted code and design reviews, ensuring high-quality development practices.
 
 `2021-2022`
 __Senior Backend Developer @ Nooxit__, Berlin
 
-- Built and maintained microservices using Python 3, GraphQL, gRPC, SQL, and Kafka.
+- Built and maintained microservices using GraphQL, gRPC, SQL, and Kafka.
 - Advocated clean code and architecture principles, driving best practices adoption.
 - Mentored developers, fostering collaboration and knowledge-sharing.
 - Reduced technical debt through strategic domain restructuring.
@@ -48,7 +48,7 @@ __Senior Backend Developer @ Nooxit__, Berlin
 `2020-2021` 
 __Developer @ Trustami__, Berlin
 
-- Developed a comprehensive system for fake shop detection using Python 3, scrapy, sklearn, and FastAPI.
+- Developed a comprehensive system for fake shop detection using scrapy and sklearn.
 - Implemented highly available language detection system using Redis.
 - Created ETL pipeline for language enrichment of review texts using MongoDB.
 - Maintained legacy software in Python 2 and PHP.
@@ -64,8 +64,8 @@ __Freelancer @ coding.ms__, Münster
 `2016-2019`
 __Founder @ Better World Communications__, Nijmegen/NL
 
-- Founded and led Better World Communications, specializing in secure business communication channels.
-- Developed secure communication channels for Android and Linux platforms, leveraging OpenVPN.
+- Founded and led, specializing in secure business communication channels.
+- Developed secure communication channels using Linux and Android, leveraging OpenVPN.
 - Ensured confidentiality, integrity, and availability of sensitive business communications.
 
 `2013-2016`
@@ -73,23 +73,20 @@ __Self employed__
 
 - Engaged in cryptocurrency trading and provided consulting services.
 - Analyzed market trends, executed trades, and managed investment portfolios.
-- Offered insights and guidance for informed decision-making in the cryptocurrency market.
+- Offered insights for informed decision-making in the cryptocurrency market.
 
 
 ## Skills
 
 __Data__
 - Extraction: Proficient in extracting data from various sources.
-- Transformation: Skilled in using Python and other efficient technologies for data transformation.
-- Loading and Formatting: Capable of loading and formatting data into the desired format in memory.
+- Transformation: Skilled in using various technologies for data transformation.
+- Loading: Capable of loading and formatting data into the desired format in memory.
 - Validation: Experienced in performing data validation to ensure accuracy and integrity.
-- Optimization: Knowledgeable in optimizing data operations to improve query performance.
-
-__Artificial Intelligence__
-- Deep Learning: Well-versed in deep learning techniques for tasks such as classification and clustering.
+- Optimization: Knowledgeable in optimizing operations to improve query performance.
 
 __High performance computing__
-- Parallelization: Proficient in parallelization techniques using libraries like CUDA or NumPy.
+- Parallelization: Proficient in parallelization using libraries like CUDA or NumPy.
 
 <!--
 ## Technologies
@@ -123,12 +120,12 @@ __ReDI School of Digital Integration__
 
 `2019`
 __Münster Info Hub @ Münsterhack__
-- Collected and provided information about events from heterogeneous sources using Python, Scrapy, and Elasticsearch.
+- Built a framework to collect and provide information about local events using Scrapy and Elasticsearch.
 - Achieved 2nd place and received a special prize for the nerdiest solution.
 
 `2015`
 __Driver Telematics Analysis @ Kaggle__
-- Conducted feature engineering and applied machine learning techniques using Python, sklearn, and random forest.
+- Conducted feature engineering and applied machine learning using sklearn and theano.
 - Achieved a top 100 result out of over 1500 total submissions.
 
 <!-- - setup a server with jupyterhub to enable team members -->
