@@ -155,6 +155,12 @@ __Login system @ dren-fotografie.de__
 -->
 
 
+## Volunteer
+
+- Volunteered as a teacher and mentor, teaching "Coding Fundamentals" courses.
+- Demonstrated commitment and contributed to a supportive learning environment.
+
+
 ## Languages
 
 - German (native)
