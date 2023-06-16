@@ -16,8 +16,8 @@ title: Jona Heidsick's CV
 ## Summary
 
 - Python Backend Engineer
-- Clean code evangelist
-- DevOps enthusiast
+- Passionate about data
+- Track record in teaching and mentoring programmers
 
 <!--
 <div id="webaddress">
@@ -31,16 +31,17 @@ title: Jona Heidsick's CV
 `2022-2023`
 __Senior Backend Developer @ Tempest__, Berlin
 
-- Develop and maintain micro services (Python 3, REST, Redis, FastAPI, protobuf)
+- Maintain and optimise micro services (Python 3, REST, Redis, FastAPI, protobuf)
 - Implement automatic code style guidelines (pre-commit)
 - Conduct code and design reviews to ensure best practices
+- Optimise redis database structure for high performance access
 
 `2021-2022`
 __Senior Backend Developer @ Nooxit__, Berlin
 
-- Build micro services (Python 3, GraphQL, gRPC, SQL, Kafka)
+- Build and maintain micro services (Python 3, GraphQL, gRPC, SQL, Kafka)
 - Advocate for clean code and architecture principles
-- Onboarde and mentor new colleagues
+- Onboarde and mentor other developers
 - Reduce and prevent technical debt
 
 `2020-2021` 
@@ -52,13 +53,6 @@ __Developer @ Trustami__, Berlin
 - Web scraping (scrapy, requests, aiohttp, httpx, curl)
 - Full stack development (PHP, JS, HTML, CSS)
 
-`2020`
-__System Administrator @ Betex__, Münster
-
-- Maintain Windows + Linux Systems (Windows Server, CentOS)
-- User management (AD)
-- 2nd level support
-
 `2019`
 __Freelancer @ coding.ms__, Münster
 
@@ -66,11 +60,11 @@ __Freelancer @ coding.ms__, Münster
 - Setup and integration of cloud based systems (Debian)
 - Database migrations (MySQL)
 
-`2016-2017`
+`2016-2019`
 __Founder @ Better World Communications__, Nijmegen/NL
 - Development of secure business communication channels (Android, Linux, OpenVPN)
 
-`since 2013`
+`2013-2016`
 __Self employed__
 - Cryptocurrency trading and consulting
 
@@ -93,7 +87,7 @@ __High performance computing__
 - CUDA, Numpy, Parallelization, Optimization
 
 __Cloud__
-- Kubernetes, Docker, Terraform, Helm
+- AWS, Kubernetes, Docker, Terraform, Helm
 
 __Interfaces__
 - FastAPI/REST, graphene/GraphQL, protobuf/gRPC
@@ -103,43 +97,45 @@ __Interfaces__
 
 `2019`
 __Münster Info Hub @ Münsterhack__
-- Collecting information about regional events from different sources (Python, scrapy)
+- Collect and provide information about events from heterogeneous sources (Python, Scrapy, Elasticsearch)
 - 2nd place and special price for nerdiest solution
 
 `2015`
 __Driver Telematics Analysis @ Kaggle__
 - Feature engineering, machine learning (Python, sklearn, random forest)
-- Finished 92nd (> 1500 total)
+- Top 100 result (> 1500 total)
 <!-- - setup a server with jupyterhub to enable team members -->
 
+<!--
 `2011`
 __Research & Development 2 @ RU Nijmegen__
 - KNN dataset reduction (Python)
 - Best result in class
-
+-->
+<!--
 `2009`
 __Neurale Netwerkmodellen @ RU Nijmegen__
 - Handwritten digit recognition (Java, MLP, AdaBoost)
-<!-- - Implementation of a Multi Layer Perceptron (MLP) + AdaBoost for MLP -->
+- Implementation of a Multi Layer Perceptron (MLP) + AdaBoost for MLP
 - Best result in class, beating the professor's research group
 
 `2005`
 __Snake clone @ school__
 - The classic game "snake" (Java Applet)
-<!-- - Implemented as a Java Applet -->
+- Implemented as a Java Applet
 - Reused code from my Tetris clone
-
+-->
 <!--
 `2004`
 __Tetris clone @ school__
 - Implemented as a Java Applet
 -->
-
+<!--
 `2003`
 __Login system @ dren-fotografie.de__
 - User registration and login system for a local event photo page (PHP 2, HTML)
 - Several hundred users, successfully prevented online harassment
-
+-->
 
 
 ## Languages
@@ -152,7 +148,7 @@ __Login system @ dren-fotografie.de__
 
 ## Education
 
-`2007-2018`
+`2007-2013`
 __Radboud University__, Nijmegen/NL
 - Computer Science + Artificial Intelligence with focus on machine learning
 
@@ -163,7 +159,7 @@ __Immanuel Kant Gymnasium__, Münster
 
 ## Interests
 
-- Sports, Cooking, Technology, Cosmology, Physics, Music, Gaming, 1337 code
+- Sports, Cooking, Technology, Cosmology, Physics, Music, Gaming
 
 <!-- ### Footer
 
