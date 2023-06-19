@@ -3,7 +3,7 @@ layout: cv
 title: Jona Heidsick's CV
 ---
 # Jona Heidsick 
-Tick
+
 _Python software engineer based in Berlin DE_
 
 [//]: # ()
@@ -32,7 +32,7 @@ Silicon Valley based company with a portfolio of privacy products
   * Optimized ETL pipelines for improved latency and data processing efficiency.
   * Introduced automatic code style guidelines for consistent and clean code.
   * Conducted code and design reviews, ensuring high-quality development practices.
-<br> __Technologies used:__ Python 3, asyncio, Redis, FastAPI, protobuf, pre-commit
+<br> **_Technologies used:_** Python 3, asyncio, Redis, FastAPI, protobuf, pre-commit
 
 `2021-2022`
 __Senior Backend Developer @ Nooxit__, Berlin <br>
@@ -43,7 +43,7 @@ Builds software to perform doing ML powered invoice analysis to automate busines
   * Mentored developers, fostering collaboration and knowledge-sharing.
   * Reduced technical debt through strategic domain restructuring.
   * Trained and refined AI models
-<br> __Technologies used:__ Python 3, asyncio, GraphQL, gRPC, SQL, Kafka, pytorch, huggingface
+<br> **_Technologies used:_** Python 3, asyncio, GraphQL, gRPC, SQL, Kafka, pytorch, huggingface
 
 `2020-2021` 
 __Developer @ Trustami__, Berlin <br>
@@ -54,15 +54,16 @@ Connects the reviews of a business from different platforms and aggregates all o
   * Created ETL pipeline for language enrichment of review texts.
   * Maintained legacy software.
   * Configured and deployed Elasticsearch for efficient search and retrieval of review texts.
-<br> __Technologies used:__ Python 2 & 3, FastAPI, flask, asyncio, sklearn, scrapy, MongoDB, Redis, PHP, Elasticsearch
+<br> **_Technologies used:_** Python 2 & 3, Debian, FastAPI, flask, asyncio, sklearn, scrapy, MongoDB, Redis, PHP, Elasticsearch
 
 `2019`
 __Freelancer @ coding.ms__, Münster <br>
 TYPO3 Content Management System web development agency.
 
-  * Engaged in full-stack web development with PHP and TYPO3.
-  * Specialized in setting up and integrating cloud-based systems on Debian.
-  * Executed database migrations using MySQL.
+  * Engaged in full-stack web development.
+  * Specialized in setting up and integrating cloud-based systems.
+  * Executed database migrations.
+<br> **_Technologies used:_** PHP, TYPO3, Debian
 
 `2016-2019`
 __Founder @ Better World Communications__, Nijmegen/NL
@@ -70,6 +71,7 @@ __Founder @ Better World Communications__, Nijmegen/NL
   * Founded and led, specializing in secure business communication channels.
   * Developed secure communication channels using Linux and Android, leveraging OpenVPN.
   * Ensured confidentiality, integrity, and availability of sensitive business communications.
+<br> **_Technologies used:_** Debian Linux, Android, OpenVPN, OMEMO
 
 `2013-2016`
 __Self employed__
