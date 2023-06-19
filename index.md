@@ -32,27 +32,33 @@ Silicon Valley based company with a portfolio of privacy products
   * Optimized ETL pipelines for improved latency and data processing efficiency.
   * Introduced automatic code style guidelines for consistent and clean code.
   * Conducted code and design reviews, ensuring high-quality development practices.
-  * __Technologies used:__ Python 3, Redis, FastAPI, protobuf, pre-commit
+<br> __Technologies used:__ Python 3, asyncio, Redis, FastAPI, protobuf, pre-commit
 
 `2021-2022`
-__Senior Backend Developer @ Nooxit__, Berlin
+__Senior Backend Developer @ Nooxit__, Berlin <br>
+Builds software to perform doing ML powered invoice analysis to automate business processes.
 
-  * Built and maintained microservices using GraphQL, gRPC, SQL, and Kafka.
+  * Built and maintained microservices.
   * Advocated clean code and architecture principles, driving best practices adoption.
   * Mentored developers, fostering collaboration and knowledge-sharing.
   * Reduced technical debt through strategic domain restructuring.
+  * Trained and refined AI models
+<br> __Technologies used:__ Python 3, asyncio, GraphQL, gRPC, SQL, Kafka, pytorch, huggingface
 
 `2020-2021` 
-__Developer @ Trustami__, Berlin
+__Developer @ Trustami__, Berlin <br>
+Connects the reviews of a business from different platforms and aggregates all on one trust badge.
 
-  * Developed a comprehensive system for fake shop detection using scrapy and sklearn.
-  * Implemented highly available language detection system using Redis.
-  * Created ETL pipeline for language enrichment of review texts using MongoDB.
-  * Maintained legacy software in Python 2 and PHP.
+  * Developed a comprehensive system for fake shop detection.
+  * Implemented highly available language detection system.
+  * Created ETL pipeline for language enrichment of review texts.
+  * Maintained legacy software.
   * Configured and deployed Elasticsearch for efficient search and retrieval of review texts.
+<br> __Technologies used:__ Python 2 & 3, FastAPI, flask, asyncio, sklearn, scrapy, MongoDB, Redis, PHP, Elasticsearch
 
 `2019`
-__Freelancer @ coding.ms__, Münster
+__Freelancer @ coding.ms__, Münster <br>
+TYPO3 Content Management System web development agency.
 
   * Engaged in full-stack web development with PHP and TYPO3.
   * Specialized in setting up and integrating cloud-based systems on Debian.
