@@ -26,7 +26,7 @@ _Python software engineer based in Berlin DE_
 
 `Nov 2022 - May 2023`
 __Senior Backend Engineer @ Tempest Search__, Berlin <br>
-Silicon Valley based company with a portfolio of privacy products
+Silicon Valley based company with a portfolio of privacy products. <br>
 
   * Maintained and enhanced microservices.
   * Optimized ETL pipelines for improved latency and data processing efficiency.
@@ -36,7 +36,7 @@ Silicon Valley based company with a portfolio of privacy products
 
 `Jul 2021 - Oct 2022`
 __Senior Backend Developer @ Nooxit__, Berlin <br>
-Builds software to perform ML powered invoice analysis to automate business processes.
+Builds software to perform ML powered invoice analysis to automate business processes. <br>
 
   * Built and maintained microservices.
   * Advocated clean code and architecture principles, driving best practices adoption.
@@ -47,7 +47,7 @@ Builds software to perform ML powered invoice analysis to automate business proc
 
 `Mar 2020 - Jun 2021` 
 __Developer @ Trustami__, Berlin <br>
-Connects the reviews of a business from different platforms and aggregates all on one trust badge.
+Connects the reviews of a business from different platforms and aggregates all on one trust badge. <br>
 
   * Developed a comprehensive system for fake shop detection.
   * Implemented highly available language detection system.
@@ -58,7 +58,7 @@ Connects the reviews of a business from different platforms and aggregates all o
 
 `2019`
 __Freelancer @ coding.ms__, Münster <br>
-TYPO3 Content Management System web development agency.
+TYPO3 Content Management System web development agency. <br>
 
   * Engaged in full-stack web development.
   * Specialized in setting up and integrating cloud-based systems.
@@ -67,16 +67,17 @@ TYPO3 Content Management System web development agency.
 
 `2016 - 2019`
 __Founder @ Better World Communications__, Nijmegen/NL
+Built and hosted a platform for secure business communication, including servers and end user devices. <br>
 
-  * Founded and led, specializing in secure business communication channels.
+  * Founded and led.
   * Developed secure communication channels, leveraging OpenVPN & OMEMO.
   * Ensured confidentiality, integrity, and availability of sensitive business communications. <br>
 <br> **_Technologies used:_** Debian Linux, Android, OpenVPN, OMEMO
 
 `2013 - 2016`
 __Self employed__
+Cryptocurrency trading and provided consulting services. <br>
 
-  * Engaged in cryptocurrency trading and provided consulting services.
   * Analyzed market trends, executed trades, and managed investment portfolios.
   * Offered insights for informed decision-making in the cryptocurrency market. <br>
 <br> **_Technologies used:_** Python 2, requests
