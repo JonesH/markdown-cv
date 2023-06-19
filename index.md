@@ -36,7 +36,7 @@ Silicon Valley based company with a portfolio of privacy products
 
 `Jul 2021 - Oct 2022`
 __Senior Backend Developer @ Nooxit__, Berlin <br>
-Builds software to perform doing ML powered invoice analysis to automate business processes.
+Builds software to perform ML powered invoice analysis to automate business processes.
 
   * Built and maintained microservices.
   * Advocated clean code and architecture principles, driving best practices adoption.
