@@ -1,2 +1,4 @@
 markdown:   kramdown
-style:  kjhealy
+#style:  kjhealy
+theme: jekyll-theme-minimal
+title: Jona Heidsick's CV
