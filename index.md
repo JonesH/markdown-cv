@@ -3,7 +3,7 @@ layout: cv
 title: Jona Heidsick's CV
 ---
 # Jona Heidsick 
-Tock
+
 _Python software engineer based in Berlin DE_
 
 [//]: # ()
@@ -54,7 +54,7 @@ Connects the reviews of a business from different platforms and aggregates all o
   * Created ETL pipeline for language enrichment of review texts.
   * Maintained legacy software.
   * Configured and deployed Elasticsearch for efficient search and retrieval of review texts.
-<br> **_Technologies used:_** Python 2 & 3, Debian, FastAPI, flask, asyncio, sklearn, scrapy, MongoDB, Redis, PHP, Elasticsearch
+<br> **_Technologies used:_** Python 2 & 3,, FastAPI, Nginx, asyncio, sklearn, scrapy, MongoDB, Redis, PHP
 
 `2019`
 __Freelancer @ coding.ms__, Münster <br>
@@ -79,6 +79,7 @@ __Self employed__
   * Engaged in cryptocurrency trading and provided consulting services.
   * Analyzed market trends, executed trades, and managed investment portfolios.
   * Offered insights for informed decision-making in the cryptocurrency market.
+<br> **_Technologies used:_** Python 2, requests
 
 <!--
 ## Skills
