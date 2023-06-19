@@ -118,7 +118,8 @@ __Interfaces__
 
 `2023`
 __ReDI School of Digital Integration__
-  * Volunteered as a teacher and mentor, teaching "Coding Fundamentals" courses.
+  * Volunteered as a teacher, teaching "Coding Fundamentals" courses.
+  * Provided mentorship to students, assisting them in successfully transitioning into the job market.
   * Demonstrated commitment and contributed to a supportive learning environment.
 
 
@@ -126,19 +127,22 @@ __ReDI School of Digital Integration__
 
 `2019`
 __Münster Info Hub @ Münsterhack__
-  * Built a framework to collect and provide information about local events using Scrapy and Elasticsearch.
+  * Built a framework to collect and provide information about local events.
   * Achieved 2nd place and received a special prize for the nerdiest solution.
+<br> **_Technologies used:_** Python 3, scrapy, Elasticsearch
 
 `2015`
 __Driver Telematics Analysis @ Kaggle__
   * Conducted feature engineering and applied machine learning using sklearn and theano.
-  * Achieved a top 100 result out of over 1500 total submissions.
+  * Achieved a top 100 result out of over 1500 total submissions. <br>
+<br> **_Technologies used:_** Python 3, sklearn, theano, jupyterhub 
 
 `2009`
 __Neural Network Models @ RU Nijmegen__
   * Developed a system for handwritten digit recognition using Java, MLP, and AdaBoost.
   * Implemented a Multi Layer Perceptron (MLP) combined with AdaBoost for MLP.
   * Achieved the highest result in the class, surpassing the research group led by the professor.
+<br> **_Technologies used:_** Java, Matlab
 
 <!-- - setup a server with jupyterhub to enable team members -->
 
