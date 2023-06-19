@@ -189,11 +189,11 @@ __Login system @ dren-fotografie.de__
 
 ## Education
 
-`2007-2013`
+`2007 - 2013`
 __Radboud University__, Nijmegen/NL
   * Computer Science + Artificial Intelligence with focus on machine learning
 
-`1996-2006`
+`1996 - 2006`
 __Immanuel Kant Gymnasium__, Münster
   * Informatics since 2000
 
