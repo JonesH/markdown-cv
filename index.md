@@ -66,7 +66,7 @@ TYPO3 Content Management System web development agency. <br>
 <br> **_Technologies used:_** PHP, TYPO3, Debian
 
 `2016 - 2019`
-__Founder @ Better World Communications__, Nijmegen/NL
+__Founder @ Better World Communications__, Nijmegen/NL <br>
 Built and hosted a platform for secure business communication, including servers and end user devices. <br>
 
   * Founded and led.
@@ -82,7 +82,7 @@ Cryptocurrency trading and provided consulting services. <br>
   * Offered insights for informed decision-making in the cryptocurrency market. <br>
 <br> **_Technologies used:_** Python 2, requests
 
-<!--
+
 ## Skills
 
 __Data__
@@ -95,7 +95,6 @@ __Data__
 __High performance computing__
   * Parallelization: Proficient in parallelization using libraries like CUDA or NumPy.
 
--->
 <!--
 ## Technologies
 
