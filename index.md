@@ -3,7 +3,7 @@ layout: cv
 title: Jona Heidsick's CV
 ---
 # Jona Heidsick 
-Tick
+
 _Python software engineer based in Berlin DE_
 
 [//]: # ()
@@ -69,7 +69,7 @@ TYPO3 Content Management System web development agency.
 __Founder @ Better World Communications__, Nijmegen/NL
 
   * Founded and led, specializing in secure business communication channels.
-  * Developed secure communication channels using Linux and Android, leveraging OpenVPN.
+  * Developed secure communication channels, leveraging OpenVPN & OMEMO.
   * Ensured confidentiality, integrity, and availability of sensitive business communications.
 <br> **_Technologies used:_** Debian Linux, Android, OpenVPN, OMEMO
 
@@ -120,7 +120,7 @@ __Interfaces__
 `2023`
 __ReDI School of Digital Integration__
   * Volunteered as a teacher, teaching "Coding Fundamentals" courses.
-  * Provided mentorship to students, assisting them in successfully transitioning into the job market.
+  * Mentored students, assisting them in successfully transitioning into the job market.
   * Demonstrated commitment and contributed to a supportive learning environment.
 
 
@@ -142,7 +142,7 @@ __Driver Telematics Analysis @ Kaggle__
 __Neural Network Models @ RU Nijmegen__
   * Developed a system for handwritten digit recognition using Java, MLP, and AdaBoost.
   * Implemented a Multi Layer Perceptron (MLP) combined with AdaBoost for MLP.
-  * Achieved the highest result in the class, surpassing the research group led by the professor.
+  * Highest result in class, surpassing the research group led by the professor.
 <br> **_Technologies used:_** Java, Matlab
 
 <!-- - setup a server with jupyterhub to enable team members -->
