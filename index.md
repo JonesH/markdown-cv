@@ -31,7 +31,7 @@ Silicon Valley based company with a portfolio of privacy products
   * Maintained and enhanced microservices.
   * Optimized ETL pipelines for improved latency and data processing efficiency.
   * Introduced automatic code style guidelines for consistent and clean code.
-  * Conducted code and design reviews, ensuring high-quality development practices.
+  * Conducted code and design reviews, ensuring high-quality development practices. <br>
 <br> **_Technologies used:_** Python 3, asyncio, Redis, FastAPI, protobuf, pre-commit
 
 `Jul 2021 - Oct 2022`
@@ -42,7 +42,7 @@ Builds software to perform ML powered invoice analysis to automate business proc
   * Advocated clean code and architecture principles, driving best practices adoption.
   * Mentored developers, fostering collaboration and knowledge-sharing.
   * Reduced technical debt through strategic domain restructuring.
-  * Trained and refined AI models
+  * Trained and refined AI models. <br>
 <br> **_Technologies used:_** Python 3, asyncio, GraphQL, gRPC, SQL, Kafka, pytorch, huggingface
 
 `Mar 2020 - Jun 2021` 
@@ -53,7 +53,7 @@ Connects the reviews of a business from different platforms and aggregates all o
   * Implemented highly available language detection system.
   * Created ETL pipeline for language enrichment of review texts.
   * Maintained legacy software.
-  * Configured and deployed Elasticsearch for efficient search and retrieval of review texts.
+  * Configured and deployed Elasticsearch for efficient search and retrieval of review texts. <br>
 <br> **_Technologies used:_** Python 2 & 3,, FastAPI, Nginx, asyncio, sklearn, scrapy, MongoDB, Redis, PHP
 
 `2019`
@@ -62,7 +62,7 @@ TYPO3 Content Management System web development agency.
 
   * Engaged in full-stack web development.
   * Specialized in setting up and integrating cloud-based systems.
-  * Executed database migrations.
+  * Executed database migrations. <br>
 <br> **_Technologies used:_** PHP, TYPO3, Debian
 
 `2016 - 2019`
@@ -70,7 +70,7 @@ __Founder @ Better World Communications__, Nijmegen/NL
 
   * Founded and led, specializing in secure business communication channels.
   * Developed secure communication channels, leveraging OpenVPN & OMEMO.
-  * Ensured confidentiality, integrity, and availability of sensitive business communications.
+  * Ensured confidentiality, integrity, and availability of sensitive business communications. <br>
 <br> **_Technologies used:_** Debian Linux, Android, OpenVPN, OMEMO
 
 `2013 - 2016`
@@ -78,7 +78,7 @@ __Self employed__
 
   * Engaged in cryptocurrency trading and provided consulting services.
   * Analyzed market trends, executed trades, and managed investment portfolios.
-  * Offered insights for informed decision-making in the cryptocurrency market.
+  * Offered insights for informed decision-making in the cryptocurrency market. <br>
 <br> **_Technologies used:_** Python 2, requests
 
 <!--
@@ -129,7 +129,7 @@ __ReDI School of Digital Integration__
 `2019`
 __Münster Info Hub @ Münsterhack__
   * Built a framework to collect and provide information about local events.
-  * Achieved 2nd place and received a special prize for the nerdiest solution.
+  * Achieved 2nd place and received a special prize for the nerdiest solution. <br>
 <br> **_Technologies used:_** Python 3, scrapy, Elasticsearch
 
 `2015`
@@ -142,7 +142,7 @@ __Driver Telematics Analysis @ Kaggle__
 __Neural Network Models @ RU Nijmegen__
   * Developed a system for handwritten digit recognition using Java, MLP, and AdaBoost.
   * Implemented a Multi Layer Perceptron (MLP) combined with AdaBoost for MLP.
-  * Highest result in class, surpassing the research group led by the professor.
+  * Highest result in class, surpassing the research group led by the professor. <br>
 <br> **_Technologies used:_** Java, Matlab
 
 <!-- - setup a server with jupyterhub to enable team members -->
