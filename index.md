@@ -24,7 +24,7 @@ _Python software engineer based in Berlin DE_
 
 ## Experience
 
-`2022-2023`
+`Nov 2022 - May 2023`
 __Senior Backend Engineer @ Tempest Search__, Berlin <br>
 Silicon Valley based company with a portfolio of privacy products
 
@@ -34,7 +34,7 @@ Silicon Valley based company with a portfolio of privacy products
   * Conducted code and design reviews, ensuring high-quality development practices.
 <br> **_Technologies used:_** Python 3, asyncio, Redis, FastAPI, protobuf, pre-commit
 
-`2021-2022`
+`Jul 2021 - Oct 2022`
 __Senior Backend Developer @ Nooxit__, Berlin <br>
 Builds software to perform doing ML powered invoice analysis to automate business processes.
 
@@ -45,7 +45,7 @@ Builds software to perform doing ML powered invoice analysis to automate busines
   * Trained and refined AI models
 <br> **_Technologies used:_** Python 3, asyncio, GraphQL, gRPC, SQL, Kafka, pytorch, huggingface
 
-`2020-2021` 
+`Mar 2020 - Jun 2021` 
 __Developer @ Trustami__, Berlin <br>
 Connects the reviews of a business from different platforms and aggregates all on one trust badge.
 
@@ -65,7 +65,7 @@ TYPO3 Content Management System web development agency.
   * Executed database migrations.
 <br> **_Technologies used:_** PHP, TYPO3, Debian
 
-`2016-2019`
+`2016 - 2019`
 __Founder @ Better World Communications__, Nijmegen/NL
 
   * Founded and led, specializing in secure business communication channels.
@@ -73,7 +73,7 @@ __Founder @ Better World Communications__, Nijmegen/NL
   * Ensured confidentiality, integrity, and availability of sensitive business communications.
 <br> **_Technologies used:_** Debian Linux, Android, OpenVPN, OMEMO
 
-`2013-2016`
+`2013 - 2016`
 __Self employed__
 
   * Engaged in cryptocurrency trading and provided consulting services.
