@@ -32,10 +32,11 @@ jona.heidsick@gmail.com
 `2022-2023`
 __Senior Backend Developer @ Tempest__, Berlin
 
-* Maintained and enhanced microservices using Redis, FastAPI and protobuf.
-* Optimized ETL pipeline for improved latency and data processing efficiency.
-* Introduced automatic code style guidelines for consistent and clean code.
-* Conducted code and design reviews, ensuring high-quality development practices.
+    * Maintained and enhanced microservices .
+    * Optimized ETL pipeline for improved latency and data processing efficiency.
+    * Introduced automatic code style guidelines for consistent and clean code.
+    * Conducted code and design reviews, ensuring high-quality development practices.
+    * __Technologies used:__ Python 3, Redis, FastAPI, protobuf, pre-commit
 
 `2021-2022`
 __Senior Backend Developer @ Nooxit__, Berlin
