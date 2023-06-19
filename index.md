@@ -76,7 +76,7 @@ __Self employed__
 * Analyzed market trends, executed trades, and managed investment portfolios.
 * Offered insights for informed decision-making in the cryptocurrency market.
 
-
+<!--
 ## Skills
 
 __Data__
@@ -89,6 +89,7 @@ __Data__
 __High performance computing__
 * Parallelization: Proficient in parallelization using libraries like CUDA or NumPy.
 
+-->
 <!--
 ## Technologies
 
@@ -117,7 +118,7 @@ __ReDI School of Digital Integration__
 * Demonstrated commitment and contributed to a supportive learning environment.
 
 
-## Projects
+## Achievements
 
 `2019`
 __Münster Info Hub @ Münsterhack__
@@ -128,6 +129,12 @@ __Münster Info Hub @ Münsterhack__
 __Driver Telematics Analysis @ Kaggle__
 * Conducted feature engineering and applied machine learning using sklearn and theano.
 * Achieved a top 100 result out of over 1500 total submissions.
+
+`2009`
+__Neural Network Models @ RU Nijmegen__
+* Developed a system for handwritten digit recognition using Java, MLP, and AdaBoost.
+* Implemented a Multi Layer Perceptron (MLP) combined with AdaBoost for MLP.
+* Achieved the highest result in the class, surpassing the research group led by the professor.
 
 <!-- - setup a server with jupyterhub to enable team members -->
 
