@@ -3,7 +3,7 @@ layout: cv
 title: Jona Heidsick's CV
 ---
 # Jona Heidsick 
-Tick
+Tock
 _Python software engineer based in Berlin DE_
 
 [//]: # ()
