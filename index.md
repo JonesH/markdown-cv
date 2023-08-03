@@ -13,7 +13,8 @@ _Python software engineer based in Berlin DE_
 [//]: # (+4915229037577)
 
 [//]: # ()
-[Email](mailto:jona.heidsick@gmail.com) / [LinkedIn](https://www.linkedin.com/in/jona-heidsick-218aa01b7/) / [GitHub](https://github.com/JonesH)
+[//]: # ([Email]&#40;mailto:jona.heidsick@gmail.com&#41; / [LinkedIn]&#40;https://www.linkedin.com/in/jona-heidsick-218aa01b7/&#41; / [GitHub]&#40;https://github.com/JonesH&#41;)
+jona.heidsick@gmail.com
 
 ## Summary
 
