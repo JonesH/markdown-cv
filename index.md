@@ -54,7 +54,7 @@ Connects the reviews of a business from different platforms and aggregates all o
   * Created ETL pipeline for language enrichment of review texts.
   * Maintained legacy software.
   * Configured and deployed Elasticsearch for efficient search and retrieval of review texts. <br>
-<br> **_Technologies used:_** Python 2 & 3,, FastAPI, Nginx, asyncio, sklearn, scrapy, MongoDB, Redis, PHP
+<br> **_Technologies used:_** Python 2 & 3, FastAPI, Nginx, asyncio, sklearn, scrapy, MongoDB, Redis, PHP
 
 `2019`
 __Freelancer @ coding.ms__, Münster <br>
