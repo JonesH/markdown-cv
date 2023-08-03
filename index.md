@@ -28,59 +28,59 @@ _Python software engineer based in Berlin DE_
 __Senior Backend Engineer @ Tempest Search__, Berlin <br>
 Silicon Valley based company with a portfolio of privacy products. <br>
 
-  * Maintained and enhanced microservices.
-  * Optimized ETL pipelines for improved latency and data processing efficiency.
-  * Introduced automatic code style guidelines for consistent and clean code.
-  * Conducted code and design reviews, ensuring high-quality development practices. <br>
-<br> **_Technologies used:_** Python 3, asyncio, Redis, FastAPI, protobuf, pre-commit
+  * Implemented test-driven development (TDD) practices, resulting in increased software reliability and quality.
+  * Optimized ETL pipelines, reducing latency and improving data processing efficiency.
+  * Spearheaded the adoption of automatic code style guidelines, ensuring consistent and maintainable codebase.
+  * Conducted rigorous code and design reviews, elevating the development standards and driving excellence. <br>
+<br> Technologies used: Python 3, asyncio, Redis, FastAPI, protobuf, pre-commit, Kubernetes, AWS
 
 `Jul 2021 - Oct 2022`
 __Senior Backend Developer @ Nooxit__, Berlin <br>
 Builds software to perform ML powered invoice analysis to automate business processes. <br>
 
-  * Built and maintained microservices.
-  * Advocated clean code and architecture principles, driving best practices adoption.
-  * Mentored developers, fostering collaboration and knowledge-sharing.
-  * Reduced technical debt through strategic domain restructuring.
-  * Trained and refined AI models. <br>
-<br> **_Technologies used:_** Python 3, asyncio, GraphQL, gRPC, SQL, Kafka, pytorch, huggingface
+  * Led the development, maintenance, and deployment of microservices using test-driven development (TDD) approach.
+  * Advocated for clean code and architecture principles, resulting in improved codebase quality and maintainability.
+  * Mentored and coached developers, fostering collaboration, skill growth, and knowledge-sharing.
+  * Successfully reduced technical debt through strategic domain restructuring initiatives.
+  * Trained and refined AI models, enhancing the accuracy and efficiency of invoice analysis. <br>
+<br> Technologies used: Python 3, asyncio, GraphQL, gRPC, SQL, Kafka, pytorch, huggingface, terraform, Kubernetes, AWS, DVC
 
 `Mar 2020 - Jun 2021` 
 __Developer @ Trustami__, Berlin <br>
 Connects the reviews of a business from different platforms and aggregates all on one trust badge. <br>
 
-  * Developed a comprehensive system for fake shop detection.
-  * Implemented highly available language detection system.
-  * Created ETL pipeline for language enrichment of review texts.
-  * Maintained legacy software.
+  * Developed a comprehensive system for detecting fake shops, significantly improving trustworthiness for users.
+  * Implemented a highly available language detection system, enhancing multilingual support.
+  * Created an efficient ETL pipeline for language enrichment of review texts, enabling better insights.
+  * Successfully maintained and improved legacy software, ensuring stability and reliability.
   * Configured and deployed Elasticsearch for efficient search and retrieval of review texts. <br>
-<br> **_Technologies used:_** Python 2 & 3,, FastAPI, Nginx, asyncio, sklearn, scrapy, MongoDB, Redis, PHP
+<br> Technologies used: Python 2 & 3, FastAPI, Nginx, asyncio, sklearn, scrapy, MongoDB, Redis, PHP
 
 `2019`
-__Freelancer @ coding.ms__, Münster <br>
+__Freelancer @ coding ms__, Münster <br>
 TYPO3 Content Management System web development agency. <br>
 
-  * Engaged in full-stack web development.
-  * Specialized in setting up and integrating cloud-based systems.
-  * Executed database migrations. <br>
-<br> **_Technologies used:_** PHP, TYPO3, Debian
+  * Engaged in full-stack web development, delivering high-quality websites and applications.
+  * Specialized in setting up and integrating cloud-based systems, optimizing performance and scalability.
+  * Executed smooth database migrations, ensuring seamless transitions for clients. <br>
+<br> Technologies used: PHP, TYPO3, Debian
 
 `2016 - 2019`
 __Founder @ Better World Communications__, Nijmegen/NL <br>
-Built and hosted a platform for secure business communication, including servers and end user devices. <br>
+Built and hosted a platform for secure business communication, including servers and end-user devices. <br>
 
-  * Founded and led.
-  * Developed secure communication channels, leveraging OpenVPN & OMEMO.
-  * Ensured confidentiality, integrity, and availability of sensitive business communications. <br>
-<br> **_Technologies used:_** Debian Linux, Android, OpenVPN, OMEMO
+  * Founded and led a successful venture focused on secure communication solutions.
+  * Developed and implemented secure communication channels, utilizing OpenVPN & OMEMO encryption.
+  * Ensured the confidentiality, integrity, and availability of sensitive business communications. <br>
+<br> Technologies used: Debian Linux, Android, OpenVPN, OMEMO
 
 `2013 - 2016`
 __Self employed__
-Cryptocurrency trading and provided consulting services. <br>
+Cryptocurrency trading and consulting services. <br>
 
   * Analyzed market trends, executed trades, and managed investment portfolios.
-  * Offered insights for informed decision-making in the cryptocurrency market. <br>
-<br> **_Technologies used:_** Python 2, requests
+  * Provided valuable insights for informed decision-making in the cryptocurrency market. <br>
+<br> Technologies used: Python 2, requests
 
 
 ## Skills
