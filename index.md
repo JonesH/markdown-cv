@@ -12,11 +12,13 @@ title: Jona Heidsick's CV
 
 [//]: # ()
 [//]: # ([Email]&#40;mailto:jona.heidsick@gmail.com&#41; / [LinkedIn]&#40;https://www.linkedin.com/in/jona-heidsick-218aa01b7/&#41; / [GitHub]&#40;https://github.com/JonesH&#41;)
-_+4915229037577_
+[//]: # (_+4915229037577_)
 
-_jona.heidsick@gmail.com_
+[//]: # ()
+[//]: # (_jona.heidsick@gmail.com_)
 
-_Boyenstr. 31, 10115 Berlin_
+[//]: # ()
+[//]: # (_Boyenstr. 31, 10115 Berlin_)
 
 ## Summary
 
