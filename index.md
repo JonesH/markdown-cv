@@ -29,6 +29,18 @@ title: Jona Heidsick's CV
 
 ## Experience
 
+`Mar 2024 - Dec 2024`
+__Senior Backend Engineer @ Real Life Interaction__, Berlin <br>
+Berlin-based SaaS company developing an interactive event platform. <br>
+
+  * Built new backend features and replaced outdated tech (e.g. Google Cloud Search).
+  * Identified and eliminated an €1,800/month Firebase cost drain through automated data cleanup.
+  * Hosted tri-weekly retrospectives, fostering team alignment and continuous improvement.
+  * Facilitated leadership alignment, ensuring technical priorities met business needs.
+  * Automated manual workflows, reducing execution time from days to minutes. <br>
+<br> **_Technologies used:_** Python 2+3, Google Appengine (legacy), Flask, Elasticsearch, Google Cloud Search
+
+
 `Nov 2022 - May 2023`
 __Senior Backend Engineer @ Tempest Search__, Berlin <br>
 Silicon Valley based company with a portfolio of privacy products. <br>
@@ -122,7 +134,7 @@ __Interfaces__
 
 ## Volunteer
 
-`2023`
+`since 2023`
 __ReDI School of Digital Integration__
   * Volunteered as a teacher, teaching "Coding Fundamentals" courses.
   * Mentored students, assisting them in successfully transitioning into the job market.
