@@ -49,18 +49,17 @@ Silicon Valley based company with a portfolio of privacy products. <br>
   * Optimized ETL pipelines for improved latency and data processing efficiency.
   * Introduced automatic code style guidelines for consistent and clean code.
   * Conducted code and design reviews, ensuring high-quality development practices. <br>
-<br> **_Technologies used:_** Python 3, asyncio, Redis, FastAPI, protobuf, pre-commit
+<br> **_Technologies used:_** Python 3, asyncio, Redis, FastAPI, protobuf, pre-commit, kubernetes
 
 `Jul 2021 - Oct 2022`
 __Senior Backend Developer @ Nooxit__, Berlin <br>
 Builds software to perform ML powered invoice analysis to automate business processes. <br>
 
-  * Built and maintained microservices.
+  * Built, maintained and deployed microservices in AWS and Telekom Cloud.
   * Advocated clean code and architecture principles, driving best practices adoption.
   * Mentored developers, fostering collaboration and knowledge-sharing.
-  * Reduced technical debt through strategic domain restructuring.
-  * Trained and refined AI models. <br>
-<br> **_Technologies used:_** Python 3, asyncio, GraphQL, gRPC, SQL, Kafka, pytorch, huggingface
+  * Reduced technical debt through strategic domain restructuring. <br>
+<br> **_Technologies used:_** Python 3, asyncio, GraphQL, gRPC, SQL, terraform, kubernetes
 
 `Mar 2020 - Jun 2021` 
 __Developer @ Trustami__, Berlin <br>
