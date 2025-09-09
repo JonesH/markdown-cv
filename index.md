@@ -4,9 +4,14 @@ title: Jona Heidsick's CV
 ---
 # Jona Heidsick
 
-<p id="webaddress">
-Boyenstr. 31, 10115 Berlin · Email: jona.heidsick@gmail.com · Phone: +49 1522 9037577 · LinkedIn: https://www.linkedin.com/in/jona-heidsick-218aa01b7/ · GitHub: https://github.com/JonesH
-</p>
+_26.04.1986 · Duisburg, Germany_
+_Boyenstr. 31 · 10115 Berlin_
+
+_jona.heidsick@gmail.com_
+_+49 1522 9037577_
+
+_LinkedIn: linkedin.com/in/jona-heidsick-218aa01b7_
+_GitHub: github.com/JonesH_
 
 ## Summary
 
@@ -25,7 +30,6 @@ __Freelance Software Engineer & AI/Blockchain Developer__, Berlin <br>
   * Automated Hetzner infra: Docker Compose, Nginx; one‑command TLS, multi‑service ops.
   * Created agentic interfaces (Telegram, MCP, context7) for tool & blockchain ops via chat.
   * Enhanced developer ergonomics: WebSSH fork for ChatGPT coding/ops, persistent logging, fingerprinting.
-  * Delivered small “AI copilots” for engineers and suggestion systems for technical writers; ~95% cost cut on LLM workflows while improving answer precision.
 <br> **_Technologies used:_** Python 3 (pydantic v2, FastAPI, aiogram, pydantic-ai), Docker Compose, Nginx, PostgreSQL, vector stores, Hetzner VPS, Node.js/TypeScript, OpenRouter, OpenAI, Claude, n8n, MCP, fast-agent-mcp
 
 `Mar 2024 - Dec 2024`
@@ -49,17 +53,17 @@ Silicon Valley based company with a portfolio of privacy products. <br>
 __Senior Backend Developer @ Nooxit__, Berlin <br>
 ML-powered invoice analysis platform. <br>
 
-  * Built AI-powered invoice analysis services: OCR + field extraction + validation; integrated with backend workflows to cut per‑invoice handling costs. [ref]
-  * Designed/operated microservices in AWS/Telekom Cloud; async processing + caching reduced end‑to‑end latency for high‑volume AP flows.
-  * Partner‑facing integrations (ERP/APIs) and data quality checks; supported cost‑reduction narrative (<<€12 → ~€1/invoice) used in sales collateral. [ref]
+  * Built and operated microservices in AWS/Telekom Cloud.
+  * Drove clean architecture adoption; mentored developers.
+  * Reduced technical debt via domain refactors.
 
 `Mar 2020 - Jun 2021`
 __Developer @ Trustami__, Berlin <br>
 Review aggregation platform. <br>
 
-  * Co‑built components for “SOFIE” (BMJV‑funded) with TU Berlin: ML pipelines for fake reviews/shops; improved trust signals across aggregated ratings. [ref]
-  * Implemented scalable text retrieval (Elasticsearch) for cross‑platform review enrichment; reduced lookup latency and enabled new fraud heuristics.
-  * Delivered production ETL for language enrichment + fake‑shop detection; supported public “Gemeinsam gegen Fakebewertungen” initiative. [ref]
+  * Built fake‑shop detection and HA language detection.
+  * Created ETL for language enrichment; maintained legacy services.
+  * Deployed Elasticsearch for efficient text retrieval.
 
 `2019`
 __Freelancer @ coding.ms__, Münster — TYPO3/PHP; cloud setup, integrations, DB migrations.
