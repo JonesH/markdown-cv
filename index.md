@@ -44,7 +44,7 @@ __Freelance Software Engineer & AI/Blockchain Developer__, Berlin <br>
   * PFAS‑Catch MVP (07/2025): voice‑to‑chemistry; simple MVP, informed later agentic integration.
   * Myth.OS‑Reply (09/2025): Twitter automation SaaS (multi‑user, RBAC, JWT, monitoring); rate‑limit‑aware jobs.
   * MCP servers (03–05/2025): mcp‑reflect, mcp‑kerykeion/kery; early protocol adoption.
-<br> **_Technologies used:_** Python 3 (pydantic v2, FastAPI, aiogram), Docker Compose, Nginx, PostgreSQL, vector stores, Hetzner VPS, Node.js/TypeScript, OpenRouter, n8n, MCP
+<br> **_Technologies used:_** Python 3 (pydantic v2, FastAPI, aiogram, pydantic-ai), Docker Compose, Nginx, PostgreSQL, vector stores, Hetzner VPS, Node.js/TypeScript, OpenRouter, OpenAI, Claude, n8n, MCP, fast-agent-mcp
 
 `Mar 2024 - Dec 2024`
 __Senior Backend Engineer @ Real Life Interaction__, Berlin <br>
@@ -130,10 +130,11 @@ __High performance computing__
   * Parallelization: Proficient in parallelization using libraries like CUDA or NumPy.
 
 __Tech Stack (2025)__
-  * AI/LLM & RAG: local LLMs (M1 Max), RAG, vector stores.
+  * AI/LLM & RAG: local LLMs (M1 Max), RAG, vector stores, OpenAI, Claude, OpenRouter.
   * Backend & Frameworks: Python 3 (pydantic v2/core, FastAPI, aiogram v3.21+), Node.js 20/22.
   * Blockchain & Smart Contracts: PyTeal + Beaker (Algorand), Solidity/Foundry (Theta EVM).
   * DevOps & Infra: Docker Compose, Nginx, Hetzner VPS.
+  * Agentic & Protocols: pydantic-ai, MCP (fast-agent-mcp).
 
 <!--
 ## Technologies
