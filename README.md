@@ -63,3 +63,32 @@ Eliseo Papa ([Twitter](http://twitter.com/elipapa)/[Github](http://github.com/el
 ### License
 
 [MIT License](https://github.com/elipapa/markdown-cv/blob/master/LICENSE)
+
+## Local PDF Build (Docker-friendly)
+
+You can build the site and generate PDFs without installing Ruby by using Docker.
+
+Prerequisites:
+
+- Docker installed (for Jekyll build and optional Chrome)
+- Optional: Chrome/Chromium locally if you prefer not to use Docker for printing
+
+Common commands:
+
+- Build site (Docker Jekyll): `make site`
+- Generate CV PDF using local Chrome: `make pdf`
+- Generate both PDFs using local Chrome: `make pdf-all`
+- Generate CV PDF using Dockerized Chrome: `make pdf-docker`
+- Generate both PDFs using Dockerized Chrome: `make pdf-all-docker`
+- Clean artifacts: `make clean`
+
+Notes:
+
+- Docker builds `_site/` via the official `jekyll/jekyll` image.
+- PDF generation uses Chrome’s headless print-to-PDF which honors print CSS.
+- If you don’t have local Chrome, use `make pdf-docker`.
+- `_site/` and generated `*.pdf` are ignored via `.gitignore`.
+
+Apple Silicon (M1/M2/M3) note:
+
+- Some images are amd64-only. The Makefile auto-adds `--platform=linux/amd64` on arm64 hosts. If you prefer to set it manually, run `DOCKER_PLATFORM=--platform=linux/amd64 make site` (and similarly for `pdf-docker`).

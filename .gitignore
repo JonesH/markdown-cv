@@ -1,1 +1,5 @@
-.idea/
+_site/
+cv.pdf
+cover-letter.pdf
+.DS_Store
+
