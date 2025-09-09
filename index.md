@@ -36,10 +36,10 @@ title: Jona Heidsick's CV
 `01/2025 - Present`
 __Freelance Software Engineer & AI/Blockchain Developer__, Berlin <br>
 
-  * Built production LLM workflows (364+ conv.) with staged agents, constrained outputs, and targeted retrieval; reduced run‑costs ~95% while improving answer precision.
-  * Automated infra on Hetzner (Docker Compose + Nginx): one‑command deploys, subdomain/TLS provisioning, multi‑service ops.
-  * Agentic interfaces: Telegram + MCP for tool use and blockchain ops via chat; context7 adopted for reliable agent context search.
-  * Developer ergonomics: WebSSH fork to run ChatGPT mobile as coding/ops assistant on VPS via custom GPT actions pre‑native support; persistent session logging and fingerprinting.
+  * Built LLM workflows (364+ conv.), cut costs ~95%, improved answer precision.
+  * Automated Hetzner infra: Docker Compose, Nginx; one‑command TLS, multi‑service ops.
+  * Created agentic interfaces (Telegram, MCP, context7) for tool & blockchain ops via chat.
+  * Enhanced developer ergonomics: WebSSH fork for ChatGPT coding/ops, persistent logging, fingerprinting.
 <br> **_Technologies used:_** Python 3 (pydantic v2, FastAPI, aiogram, pydantic-ai), Docker Compose, Nginx, PostgreSQL, vector stores, Hetzner VPS, Node.js/TypeScript, OpenRouter, OpenAI, Claude, n8n, MCP, fast-agent-mcp
 
 `Mar 2024 - Dec 2024`
