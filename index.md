@@ -46,91 +46,50 @@ __Freelance Software Engineer & AI/Blockchain Developer__, Berlin <br>
 __Senior Backend Engineer @ Real Life Interaction__, Berlin <br>
 Berlin-based SaaS company developing an interactive event platform. <br>
 
-  * Built new backend features and replaced outdated tech (e.g. Google Cloud Search).
-  * Undertook some huge refactorings.
-  * Identified and eliminated an €1,800/month Firebase cost drain through automated data cleanup.
-  * Hosted tri-weekly retrospectives, fostering team alignment and continuous improvement.
-  * Facilitated leadership alignment, ensuring technical priorities met business needs.
-  * Automated manual workflows, reducing execution time from days to minutes. <br>
-<br> **_Technologies used:_** Python 2+3, Google Appengine (legacy), Flask, Elasticsearch, Google Cloud Search
+  * Modernized backend (feature delivery, deprecations) and executed large-scale refactors.
+  * Eliminated €1.8k/month Firebase spend via automated data cleanup.
+  * Automated manual workflows from days to minutes; improved team cadence via retrospectives.
 
 
 `Nov 2022 - May 2023`
 __Senior Backend Engineer @ Tempest Search__, Berlin <br>
 Silicon Valley based company with a portfolio of privacy products. <br>
 
-  * Maintained and enhanced microservices.
-  * Optimized ETL pipelines for improved latency and data processing efficiency.
-  * Introduced automatic code style guidelines for consistent and clean code.
-  * Conducted code and design reviews, ensuring high-quality development practices. <br>
-<br> **_Technologies used:_** Python 3, asyncio, Redis, FastAPI, protobuf, pre-commit, kubernetes
+  * Maintained and enhanced microservices; reduced latency in ETL pipelines.
+  * Introduced automated code style (pre-commit); enforced code/design reviews.
+  * Improved reliability through async patterns and caching.
 
 `Jul 2021 - Oct 2022`
 __Senior Backend Developer @ Nooxit__, Berlin <br>
-Builds software to perform ML powered invoice analysis to automate business processes. <br>
+ML-powered invoice analysis platform. <br>
 
-  * Built, maintained and deployed microservices in AWS and Telekom Cloud.
-  * Advocated clean code and architecture principles, driving best practices adoption.
-  * Mentored developers, fostering collaboration and knowledge-sharing.
-  * Reduced technical debt through strategic domain restructuring. <br>
-<br> **_Technologies used:_** Python 3, asyncio, GraphQL, gRPC, SQL, terraform, kubernetes
+  * Built and operated microservices in AWS/Telekom Cloud.
+  * Drove clean architecture adoption; mentored developers.
+  * Reduced technical debt via domain refactors.
 
 `Mar 2020 - Jun 2021` 
 __Developer @ Trustami__, Berlin <br>
-Connects the reviews of a business from different platforms and aggregates all on one trust badge. <br>
+Review aggregation platform. <br>
 
-  * Developed a comprehensive system for fake shop detection.
-  * Implemented highly available language detection system.
-  * Created ETL pipeline for language enrichment of review texts.
-  * Maintained legacy software.
-  * Configured and deployed Elasticsearch for efficient search and retrieval of review texts. <br>
-<br> **_Technologies used:_** Python 2 & 3, FastAPI, Nginx, asyncio, sklearn, scrapy, MongoDB, Redis, PHP
+  * Built fake‑shop detection and HA language detection.
+  * Created ETL for language enrichment; maintained legacy services.
+  * Deployed Elasticsearch for efficient text retrieval.
 
-`2019`
-__Freelancer @ coding.ms__, Münster <br>
-TYPO3 Content Management System web development agency. <br>
+### Earlier Experience (summary)
 
-  * Engaged in full-stack web development.
-  * Specialized in setting up and integrating cloud-based systems.
-  * Executed database migrations. <br>
-<br> **_Technologies used:_** PHP, TYPO3, Debian
+`2019` — Freelancer @ coding.ms (TYPO3/PHP): cloud setup, integrations, DB migrations.
 
-`2016 - 2019`
-__Founder @ Better World Communications__, Nijmegen/NL <br>
-Built and hosted a platform for secure business communication, including servers and end user devices. <br>
+`2016 - 2019` — Founder @ Better World Communications: secure communications platform (OpenVPN/OMEMO), infra and devices.
 
-  * Founded and led.
-  * Developed secure communication channels, leveraging OpenVPN & OMEMO.
-  * Ensured confidentiality, integrity, and availability of sensitive business communications. <br>
-<br> **_Technologies used:_** Debian Linux, Android, OpenVPN, OMEMO
-
-`2013 - 2016`
-__Self employed__
-Cryptocurrency trading and provided consulting services. <br>
-
-  * Analyzed market trends, executed trades, and managed investment portfolios.
-  * Offered insights for informed decision-making in the cryptocurrency market. <br>
-<br> **_Technologies used:_** Python 2, requests
+`2013 - 2016` — Self‑employed: cryptocurrency trading and consulting (Python).
 
 
-## Skills
+## Skills / Tech
 
-__Data__
-  * Extraction: Proficient in extracting data from various sources.
-  * Transformation: Skilled in using various technologies for data transformation.
-  * Loading: Capable of loading and formatting data into the desired format in memory.
-  * Validation: Experienced in performing data validation to ensure accuracy and integrity.
-  * Optimization: Knowledgeable in optimizing operations to improve query performance.
-
-__High performance computing__
-  * Parallelization: Proficient in parallelization using libraries like CUDA or NumPy.
-
-__Tech Stack (2025)__
-  * AI/LLM & RAG: local LLMs (M1 Max), RAG, vector stores, OpenAI, Claude, OpenRouter.
-  * Backend & Frameworks: Python 3 (pydantic v2/core, FastAPI, aiogram v3.21+), Node.js 20/22.
-  * Blockchain & Smart Contracts: PyTeal + Beaker (Algorand), Solidity/Foundry (Theta EVM).
-  * DevOps & Infra: Docker Compose, Nginx, Hetzner VPS.
-  * Agentic & Protocols: pydantic-ai, MCP (fast-agent-mcp).
+  * AI & LLMs: OpenAI, Claude, OpenRouter; RAG, vector stores; pydantic‑ai; MCP (fast‑agent‑mcp).
+  * Backend & Data: Python (pydantic v2/core, FastAPI, asyncio), TypeScript/Node.js; PostgreSQL, Redis; ETL, validation, optimization.
+  * Infra & Ops: Docker Compose, Nginx, Hetzner VPS, n8n; Linux ops.
+  * Blockchain: PyTeal + Beaker (Algorand), Solidity/Foundry (Theta EVM); W3C VC/DID basics.
 
 <!--
 ## Technologies
@@ -154,31 +113,15 @@ __Interfaces__
 
 ## Volunteer
 
-`since 2023`
-__ReDI School of Digital Integration__
-  * Volunteered as a teacher, teaching "Coding Fundamentals" courses.
-  * Mentored students, assisting them in successfully transitioning into the job market.
-  * Demonstrated commitment and contributed to a supportive learning environment.
+  * ReDI School of Digital Integration — Volunteer instructor (since 2023), Coding Fundamentals; mentoring learners into the job market.
 
 
 ## Achievements / Awards
 
-- 🥈 2nd Place – Masumi Hackathon (04/2025)
-- 🥈 2nd Place – NEAR Hackathon (Blockchain Week) (2025)
-- 🥈 2nd Place – Münsterhack (2019)
-
-`2015`
-__Driver Telematics Analysis @ Kaggle__
-  * Conducted feature engineering and applied machine learning using sklearn and theano.
-  * Achieved a top 100 result out of over 1500 total submissions. <br>
-<br> **_Technologies used:_** Python 3, sklearn, theano, jupyterhub 
-
-`2009`
-__Neural Network Models @ RU Nijmegen__
-  * Developed a system for handwritten digit recognition using Java, MLP, and AdaBoost.
-  * Implemented a Multi Layer Perceptron (MLP) combined with AdaBoost for MLP.
-  * Highest result in class, surpassing the research group led by the professor. <br>
-<br> **_Technologies used:_** Java, Matlab
+  * 🥈 2nd Place — Masumi Hackathon (04/2025)
+  * 🥈 2nd Place — NEAR Hackathon (Blockchain Week) (2025)
+  * 🥈 2nd Place — Münsterhack (2019)
+  * Kaggle (Driver Telematics, 2015): Top‑100 of 1500+ submissions
 
 ## Programs / Grants
 
@@ -243,9 +186,7 @@ __Immanuel Kant Gymnasium__, Münster
   * Informatics since 2000
 
 
-## Interests
-
-  * Sports, Cooking, Technology, Cosmology, Physics, Music, Gaming
+<!-- Interests intentionally removed to fit within two pages -->
 
 <!-- ### Footer
 
