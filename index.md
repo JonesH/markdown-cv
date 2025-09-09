@@ -36,14 +36,14 @@ title: Jona Heidsick's CV
 `01/2025 - Present`
 __Freelance Software Engineer & AI/Blockchain Developer__, Berlin <br>
 
-  * Automated multi-subdomain infrastructure (Docker + Nginx, YAML/Python); one-command deployments for a double-digit number of services/subdomains.
-  * Telegram moderation bot (aiogram v3.21+): moderation, RAG knowledge answers, anti-spam; modular architecture for community chats.
-  * Code-browsing tool for RAG: static symbol resolution and contextual navigation; improves retrieval precision in agent workflows.
-  * WebSSH fork: persistent SQLite session logs and system/tool fingerprinting; workaround to enable ChatGPT Custom GPT with custom actions as a coding assistant before native desktop/mobile clients (e.g., ChatGPT, Claude) supported it.
-  * Infrastructure operations on Hetzner VPS with Docker Compose; automated subdomain/TLS provisioning.
-  * PFAS-Catch (TechEurope Hackathon, 07/2025): voice AI for molecular discovery; orchestrated Telli Voice, AI-Coustics, Weaviate, RDKit, and 3D molecule visualization; natural language → chemical informatics pipeline.
-  * Myth.OS-Reply (09/2025): production SaaS for Twitter automation (multi-user, RBAC, JWT, OpenRouter models, monitoring/analytics, Swagger docs); compliant automation jobs with rate limiting.
-  * MCP protocol portfolio (03–05/2025): multiple servers (e.g., mcp-reflect, mcp-kerykeion/kery); meta-cognitive tools and domain calculators; early adoption and protocol implementation expertise.
+  * Production RAG system (364+ conv.): personalized generation via n8n + PostgreSQL; staged agents + constrained outputs cut LLM cost by ~95%.
+  * Infra automation: Docker Compose + Nginx on Hetzner; one‑command deploys; automated subdomain/TLS for a double‑digit number of services.
+  * Telegram MCP bot: agent orchestration with accurate timeboxing; complex blockchain ops abstracted behind a chat interface.
+  * Code‑browsing tool (experimental): static symbol resolution + context navigation; replaced by context7 for superior agent workflow context search.
+  * WebSSH fork: persistent SQLite session logs + system/tool fingerprinting; workaround to run ChatGPT mobile as coding/ops assistant via custom GPT actions on VPS pre‑native client support.
+  * PFAS‑Catch (TechEurope 07/2025): voice‑to‑chemistry MVP (Telli Voice, AI‑Coustics, Weaviate, RDKit, 3D viz); MVP didn’t need full agentic behavior—integrating it into daily systems does, guiding later agentic architecture.
+  * Myth.OS‑Reply (09/2025): production SaaS for Twitter automation (multi‑user, RBAC, JWT, OpenRouter models, monitoring/analytics, Swagger); rate‑limit‑aware automation jobs.
+  * MCP protocol portfolio (03–05/2025): multiple servers (mcp‑reflect, mcp‑kerykeion/kery); meta‑cognitive tools and domain calculators; early protocol adoption and implementation expertise.
 <br> **_Technologies used:_** Python 3 (pydantic v2, FastAPI, aiogram), Docker Compose, Nginx, PostgreSQL, vector stores, Hetzner VPS, Node.js/TypeScript, OpenRouter, Twitter API v2, RDKit, Weaviate, n8n, MCP
 
 `Mar 2024 - Dec 2024`
