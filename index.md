@@ -32,11 +32,22 @@ title: Jona Heidsick's CV
 
 ## Experience
 
+`01/2025 - Present`
+__Freelance Software Engineer & AI/Blockchain Developer__, Berlin <br>
+
+  * Automated multi-subdomain infrastructure (Docker + Nginx, YAML/Python); one-command deployments for a double-digit number of services/subdomains.
+  * Telegram moderation bot (aiogram v3.21+): moderation, RAG knowledge answers, anti-spam; modular architecture for community chats.
+  * Code-browsing tool for RAG: static symbol resolution and contextual navigation; improves retrieval precision in agent workflows.
+  * WebSSH fork: persistent SQLite session logs and system/tool fingerprinting for sandbox sessions.
+  * Infrastructure operations on Hetzner VPS with Docker Compose; automated subdomain/TLS provisioning.
+<br> **_Technologies used:_** Python 3 (pydantic v2, FastAPI, aiogram), Docker Compose, Nginx, llama_index, vector stores, Hetzner VPS, Node.js
+
 `Mar 2024 - Dec 2024`
 __Senior Backend Engineer @ Real Life Interaction__, Berlin <br>
 Berlin-based SaaS company developing an interactive event platform. <br>
 
   * Built new backend features and replaced outdated tech (e.g. Google Cloud Search).
+  * Undertook some huge refactorings.
   * Identified and eliminated an €1,800/month Firebase cost drain through automated data cleanup.
   * Hosted tri-weekly retrospectives, fostering team alignment and continuous improvement.
   * Facilitated leadership alignment, ensuring technical priorities met business needs.
@@ -114,6 +125,12 @@ __Data__
 __High performance computing__
   * Parallelization: Proficient in parallelization using libraries like CUDA or NumPy.
 
+__Tech Stack (2025)__
+  * AI/LLM & RAG: llama_index, local LLMs (M1 Max), RAG, vector stores.
+  * Backend & Frameworks: Python 3 (pydantic v2/core, FastAPI, aiogram v3.21+), Node.js 20/22.
+  * Blockchain & Smart Contracts: PyTeal + Beaker (Algorand), Solidity/Foundry (Theta EVM), ZK (conceptual).
+  * DevOps & Infra: Docker Compose, Nginx, Hetzner VPS.
+
 <!--
 ## Technologies
 
@@ -163,6 +180,22 @@ __Neural Network Models @ RU Nijmegen__
   * Implemented a Multi Layer Perceptron (MLP) combined with AdaBoost for MLP.
   * Highest result in class, surpassing the research group led by the professor. <br>
 <br> **_Technologies used:_** Java, Matlab
+
+## Awards / Hackathons
+
+- 🥈 **2nd Place – Masumi Hackathon** (04/2025)
+- 🥈 **2nd Place – NEAR Hackathon (Blockchain Week)** (2025)
+
+## Programs / Grants
+
+- **OpenServ Incubator** — Participant (2025)
+- **NEAR Protocol Rewards** — Award (2025)
+
+## Research & Open Source (2025)
+
+- AAS (inspired by EAS), W3C VC 2.0 & DID compliant: prototype for attested agent outputs.
+- “Pydantic × Web3”: experimental mapping of Pydantic models to on-chain structures.
+- Trustworthy AI: verifiable agent workflows with TEE/EdgeCloud integration.
 
 <!-- - setup a server with jupyterhub to enable team members -->
 
@@ -224,5 +257,3 @@ __Immanuel Kant Gymnasium__, Münster
 <!-- ### Footer
 
 Last updated: April 2022 -->
-
-
