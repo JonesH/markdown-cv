@@ -67,7 +67,7 @@ ML-powered invoice analysis platform. <br>
   * Drove clean architecture adoption; mentored developers.
   * Reduced technical debt via domain refactors.
 
-`Mar 2020 - Jun 2021` 
+`Mar 2020 - Jun 2021`
 __Developer @ Trustami__, Berlin <br>
 Review aggregation platform. <br>
 
@@ -75,11 +75,14 @@ Review aggregation platform. <br>
   * Created ETL for language enrichment; maintained legacy services.
   * Deployed Elasticsearch for efficient text retrieval.
 
-`2019` — Freelancer @ coding.ms (TYPO3/PHP): cloud setup, integrations, DB migrations.
+`2019`
+__Freelancer @ coding.ms__, Münster — TYPO3/PHP; cloud setup, integrations, DB migrations.
 
-`2016 - 2019` — Founder @ Better World Communications: secure communications platform (OpenVPN/OMEMO), infra and devices.
+`2016 - 2019`
+__Founder @ Better World Communications__, Nijmegen/NL — Secure communications platform (OpenVPN/OMEMO), infra and devices.
 
-`2013 - 2016` — Self‑employed: cryptocurrency trading and consulting (Python).
+`2013 - 2016`
+__Self‑employed__ — Cryptocurrency trading and consulting (Python).
 
 
 ## Skills / Tech
