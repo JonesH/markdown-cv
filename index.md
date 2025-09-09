@@ -187,7 +187,14 @@ __Immanuel Kant Gymnasium__, Münster
   * Informatics since 2000
 
 
-<!-- Interests intentionally removed to fit within two pages -->
+## Interests
+
+  * AI, Software, Cosmology, Physics, Technology
+  * Cooking, Sports, Music, Gaming
+
+`2009`
+__Neural Network Models @ RU Nijmegen__
+  * Implemented AdaBoost combined with a Multi‑Layer Perceptron (from scratch) for handwritten digit recognition; top result in class.
 
 <!-- ### Footer
 
