@@ -36,14 +36,14 @@ title: Jona Heidsick's CV
 `01/2025 - Present`
 __Freelance Software Engineer & AI/Blockchain Developer__, Berlin <br>
 
-  * Production RAG system (364+ conv.): personalized generation via n8n + PostgreSQL; staged agents + constrained outputs cut LLM cost by ~95%.
-  * Infra automation: Docker Compose + Nginx on Hetzner; one‑command deploys; automated subdomain/TLS for a double‑digit number of services.
-  * Telegram MCP bot: agent orchestration with accurate timeboxing; complex blockchain ops abstracted behind a chat interface.
-  * Code‑browsing tool (experimental): static symbol resolution + context navigation; replaced by context7 for superior agent workflow context search.
-  * WebSSH fork: persistent SQLite session logs + system/tool fingerprinting; workaround to run ChatGPT mobile as coding/ops assistant via custom GPT actions on VPS pre‑native client support.
-  * PFAS‑Catch (TechEurope 07/2025): voice‑to‑chemistry MVP (Telli Voice, AI‑Coustics, Weaviate, RDKit, 3D viz); MVP didn’t need full agentic behavior—integrating it into daily systems does, guiding later agentic architecture.
-  * Myth.OS‑Reply (09/2025): production SaaS for Twitter automation (multi‑user, RBAC, JWT, OpenRouter models, monitoring/analytics, Swagger); rate‑limit‑aware automation jobs.
-  * MCP protocol portfolio (03–05/2025): multiple servers (mcp‑reflect, mcp‑kerykeion/kery); meta‑cognitive tools and domain calculators; early protocol adoption and implementation expertise.
+  * RAG system (364+ conv.): n8n + PostgreSQL; staged agents/constrained outputs cut LLM cost ~95%.
+  * Infra automation: Docker Compose + Nginx on Hetzner; one‑command deploys; automated subdomain/TLS.
+  * Telegram MCP bot: agent orchestration; blockchain ops via chat, accurate timeboxing.
+  * Code browsing (experimental): static symbols + context nav; superseded by context7 for agent context search.
+  * WebSSH fork: SQLite session logs + fingerprinting; workaround to run ChatGPT mobile with custom GPT actions pre‑native support.
+  * PFAS‑Catch MVP (07/2025): voice‑to‑chemistry; simple MVP, informed later agentic integration.
+  * Myth.OS‑Reply (09/2025): Twitter automation SaaS (multi‑user, RBAC, JWT, monitoring); rate‑limit‑aware jobs.
+  * MCP servers (03–05/2025): mcp‑reflect, mcp‑kerykeion/kery; early protocol adoption.
 <br> **_Technologies used:_** Python 3 (pydantic v2, FastAPI, aiogram), Docker Compose, Nginx, PostgreSQL, vector stores, Hetzner VPS, Node.js/TypeScript, OpenRouter, Twitter API v2, RDKit, Weaviate, n8n, MCP
 
 `Mar 2024 - Dec 2024`
