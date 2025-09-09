@@ -28,6 +28,7 @@ title: Jona Heidsick's CV
   * Code quality advocate
   * Passionate about data
   * Track record in optimising for performance
+  * Hacking software development to ship ideas faster
 
 
 ## Experience
@@ -38,9 +39,9 @@ __Freelance Software Engineer & AI/Blockchain Developer__, Berlin <br>
   * Automated multi-subdomain infrastructure (Docker + Nginx, YAML/Python); one-command deployments for a double-digit number of services/subdomains.
   * Telegram moderation bot (aiogram v3.21+): moderation, RAG knowledge answers, anti-spam; modular architecture for community chats.
   * Code-browsing tool for RAG: static symbol resolution and contextual navigation; improves retrieval precision in agent workflows.
-  * WebSSH fork: persistent SQLite session logs and system/tool fingerprinting for sandbox sessions.
+  * WebSSH fork: persistent SQLite session logs and system/tool fingerprinting; workaround to enable ChatGPT Custom GPT with custom actions as a coding assistant before native desktop/mobile clients (e.g., ChatGPT, Claude) supported it.
   * Infrastructure operations on Hetzner VPS with Docker Compose; automated subdomain/TLS provisioning.
-<br> **_Technologies used:_** Python 3 (pydantic v2, FastAPI, aiogram), Docker Compose, Nginx, llama_index, vector stores, Hetzner VPS, Node.js
+<br> **_Technologies used:_** Python 3 (pydantic v2, FastAPI, aiogram), Docker Compose, Nginx, vector stores, Hetzner VPS, Node.js
 
 `Mar 2024 - Dec 2024`
 __Senior Backend Engineer @ Real Life Interaction__, Berlin <br>
@@ -126,7 +127,7 @@ __High performance computing__
   * Parallelization: Proficient in parallelization using libraries like CUDA or NumPy.
 
 __Tech Stack (2025)__
-  * AI/LLM & RAG: llama_index, local LLMs (M1 Max), RAG, vector stores.
+  * AI/LLM & RAG: local LLMs (M1 Max), RAG, vector stores.
   * Backend & Frameworks: Python 3 (pydantic v2/core, FastAPI, aiogram v3.21+), Node.js 20/22.
   * Blockchain & Smart Contracts: PyTeal + Beaker (Algorand), Solidity/Foundry (Theta EVM), ZK (conceptual).
   * DevOps & Infra: Docker Compose, Nginx, Hetzner VPS.
