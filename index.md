@@ -4,31 +4,15 @@ title: Jona Heidsick's CV
 ---
 # Jona Heidsick
 
-[//]: # ()
-[//]: # (\*26.04.1986 in Duisburg/Germany)
-
-[//]: # ()
-[//]: # (+4915229037577)
-
-[//]: # ()
-[//]: # ([Email]&#40;mailto:jona.heidsick@gmail.com&#41; / [LinkedIn]&#40;https://www.linkedin.com/in/jona-heidsick-218aa01b7/&#41; / [GitHub]&#40;https://github.com/JonesH&#41;)
-[//]: # (_+4915229037577_)
-
-[//]: # ()
-[//]: # (_jona.heidsick@gmail.com_)
-
-[//]: # ()
-[//]: # (_Boyenstr. 31, 10115 Berlin_)
-
-[//]: # ()
-[//]: # (_https://www.linkedin.com/in/jona-heidsick-218aa01b7_)
+Boyenstr. 31, 10115 Berlin  
+Email: jona.heidsick@gmail.com  
+Phone: +49 1522 9037577  
+LinkedIn: https://www.linkedin.com/in/jona-heidsick-218aa01b7/  
+GitHub: https://github.com/JonesH
 
 ## Summary
 
-  * Code quality advocate
-  * Passionate about data
-  * Track record in optimising for performance
-  * Hacking software development to ship ideas faster
+AI-focused Software Engineer (Python) — ships production LLM/RAG systems fast without sacrificing code quality. Strong backend + data + DevOps; light frontend (React/TS) for admin/UIs when needed. Proven in real client work, cost cuts, and reliability improvements.
 
 
 ## Experience
@@ -40,6 +24,7 @@ __Freelance Software Engineer & AI/Blockchain Developer__, Berlin <br>
   * Automated Hetzner infra: Docker Compose, Nginx; one‑command TLS, multi‑service ops.
   * Created agentic interfaces (Telegram, MCP, context7) for tool & blockchain ops via chat.
   * Enhanced developer ergonomics: WebSSH fork for ChatGPT coding/ops, persistent logging, fingerprinting.
+  * Delivered small “AI copilots” for engineers and suggestion systems for technical writers; ~95% cost cut on LLM workflows while improving answer precision.
 <br> **_Technologies used:_** Python 3 (pydantic v2, FastAPI, aiogram, pydantic-ai), Docker Compose, Nginx, PostgreSQL, vector stores, Hetzner VPS, Node.js/TypeScript, OpenRouter, OpenAI, Claude, n8n, MCP, fast-agent-mcp
 
 `Mar 2024 - Dec 2024`
@@ -63,17 +48,17 @@ Silicon Valley based company with a portfolio of privacy products. <br>
 __Senior Backend Developer @ Nooxit__, Berlin <br>
 ML-powered invoice analysis platform. <br>
 
-  * Built and operated microservices in AWS/Telekom Cloud.
-  * Drove clean architecture adoption; mentored developers.
-  * Reduced technical debt via domain refactors.
+  * Built AI-powered invoice analysis services: OCR + field extraction + validation; integrated with backend workflows to cut per‑invoice handling costs. [ref]
+  * Designed/operated microservices in AWS/Telekom Cloud; async processing + caching reduced end‑to‑end latency for high‑volume AP flows.
+  * Partner‑facing integrations (ERP/APIs) and data quality checks; supported cost‑reduction narrative (<<€12 → ~€1/invoice) used in sales collateral. [ref]
 
 `Mar 2020 - Jun 2021`
 __Developer @ Trustami__, Berlin <br>
 Review aggregation platform. <br>
 
-  * Built fake‑shop detection and HA language detection.
-  * Created ETL for language enrichment; maintained legacy services.
-  * Deployed Elasticsearch for efficient text retrieval.
+  * Co‑built components for “SOFIE” (BMJV‑funded) with TU Berlin: ML pipelines for fake reviews/shops; improved trust signals across aggregated ratings. [ref]
+  * Implemented scalable text retrieval (Elasticsearch) for cross‑platform review enrichment; reduced lookup latency and enabled new fraud heuristics.
+  * Delivered production ETL for language enrichment + fake‑shop detection; supported public “Gemeinsam gegen Fakebewertungen” initiative. [ref]
 
 `2019`
 __Freelancer @ coding.ms__, Münster — TYPO3/PHP; cloud setup, integrations, DB migrations.
@@ -87,10 +72,11 @@ __Self‑employed__ — Cryptocurrency trading and consulting (Python).
 
 ## Skills / Tech
 
-  * AI & LLMs: OpenAI, Claude, OpenRouter; RAG, vector stores; pydantic‑ai; MCP (fast‑agent‑mcp).
+  * AI & LLMs: RAG, retrieval (Elasticsearch, vector DBs), prompt‑tools, evaluation; built “AI copilots” and suggestion systems for ops/dev workflows (Telegram/MCP); OpenAI, Claude, OpenRouter; pydantic‑ai; MCP (fast‑agent‑mcp).
   * Backend & Data: Python (pydantic v2/core, FastAPI, asyncio), TypeScript/Node.js; PostgreSQL, Redis; ETL, validation, optimization.
   * Infra & Ops: Docker Compose, Nginx, Hetzner VPS, n8n; Linux ops.
   * Blockchain: PyTeal + Beaker (Algorand), Solidity/Foundry (Theta EVM); W3C VC/DID basics.
+  * Frontend (limited): React + TypeScript for admin panels, dashboards, and ops tooling (basic to intermediate; not a dedicated UI engineer).
 
 <!--
 ## Technologies
