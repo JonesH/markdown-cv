@@ -4,14 +4,14 @@ title: Jona Heidsick's CV
 ---
 # Jona Heidsick
 
-_26.04.1986 · Duisburg, Germany_
+<!--_26.04.1986 · Duisburg, Germany_
 _Boyenstr. 31 · 10115 Berlin_
 
 _jona.heidsick@gmail.com_
 _+49 1522 9037577_
 
 _LinkedIn: linkedin.com/in/jona-heidsick-218aa01b7_
-_GitHub: github.com/JonesH_
+_GitHub: github.com/JonesH_-->
 
 ## Summary
 
@@ -81,7 +81,6 @@ __Self‑employed__ — Cryptocurrency trading and consulting (Python).
   * Backend & Data: Python (pydantic v2/core, FastAPI, asyncio), TypeScript/Node.js; PostgreSQL, Redis; ETL, validation, optimization.
   * Infra & Ops: Docker Compose, Nginx, Hetzner VPS, n8n; Linux ops.
   * Blockchain: PyTeal + Beaker (Algorand), Solidity/Foundry (Theta EVM); W3C VC/DID basics.
-  * Frontend (limited): React + TypeScript for admin panels, dashboards, and ops tooling (basic to intermediate; not a dedicated UI engineer).
 
 <!--
 ## Technologies
