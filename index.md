@@ -123,6 +123,7 @@ __Interfaces__
   * 🥈 2nd Place — NEAR Hackathon (Blockchain Week) (2025)
   * 🥈 2nd Place — Münsterhack (2019)
   * Kaggle (Driver Telematics, 2015): Top‑100 of 1500+ submissions
+  * OCR (2009): Implemented AdaBoost with MLP (from scratch) for handwritten digit recognition; top result in class
 
 ## Programs / Grants
 
@@ -192,9 +193,7 @@ __Immanuel Kant Gymnasium__, Münster
   * AI, Software, Cosmology, Physics, Technology
   * Cooking, Sports, Music, Gaming
 
-`2009`
-__Neural Network Models @ RU Nijmegen__
-  * Implemented AdaBoost with a Multi‑Layer Perceptron (from scratch) for OCR (handwritten digit recognition); top result in class.
+
 
 <!-- ### Footer
 
