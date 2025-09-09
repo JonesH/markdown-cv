@@ -41,7 +41,10 @@ __Freelance Software Engineer & AI/Blockchain Developer__, Berlin <br>
   * Code-browsing tool for RAG: static symbol resolution and contextual navigation; improves retrieval precision in agent workflows.
   * WebSSH fork: persistent SQLite session logs and system/tool fingerprinting; workaround to enable ChatGPT Custom GPT with custom actions as a coding assistant before native desktop/mobile clients (e.g., ChatGPT, Claude) supported it.
   * Infrastructure operations on Hetzner VPS with Docker Compose; automated subdomain/TLS provisioning.
-<br> **_Technologies used:_** Python 3 (pydantic v2, FastAPI, aiogram), Docker Compose, Nginx, vector stores, Hetzner VPS, Node.js
+  * PFAS-Catch (TechEurope Hackathon, 07/2025): voice AI for molecular discovery; orchestrated Telli Voice, AI-Coustics, Weaviate, RDKit, and 3D molecule visualization; natural language → chemical informatics pipeline.
+  * Myth.OS-Reply (09/2025): production SaaS for Twitter automation (multi-user, RBAC, JWT, OpenRouter models, monitoring/analytics, Swagger docs); compliant automation jobs with rate limiting.
+  * MCP protocol portfolio (03–05/2025): multiple servers (e.g., mcp-reflect, mcp-kerykeion/kery); meta-cognitive tools and domain calculators; early adoption and protocol implementation expertise.
+<br> **_Technologies used:_** Python 3 (pydantic v2, FastAPI, aiogram), Docker Compose, Nginx, PostgreSQL, vector stores, Hetzner VPS, Node.js/TypeScript, OpenRouter, Twitter API v2, RDKit, Weaviate, n8n, MCP
 
 `Mar 2024 - Dec 2024`
 __Senior Backend Engineer @ Real Life Interaction__, Berlin <br>
