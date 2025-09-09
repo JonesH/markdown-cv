@@ -164,13 +164,11 @@ __ReDI School of Digital Integration__
   * Demonstrated commitment and contributed to a supportive learning environment.
 
 
-## Achievements
+## Achievements / Awards
 
-`2019`
-__Münster Info Hub @ Münsterhack__
-  * Built a framework to collect and provide information about local events.
-  * Achieved 2nd place and received a special prize for the nerdiest solution. <br>
-<br> **_Technologies used:_** Python 3, scrapy, Elasticsearch
+- 🥈 2nd Place – Masumi Hackathon (04/2025)
+- 🥈 2nd Place – NEAR Hackathon (Blockchain Week) (2025)
+- 🥈 2nd Place – Münsterhack (2019)
 
 `2015`
 __Driver Telematics Analysis @ Kaggle__
@@ -184,11 +182,6 @@ __Neural Network Models @ RU Nijmegen__
   * Implemented a Multi Layer Perceptron (MLP) combined with AdaBoost for MLP.
   * Highest result in class, surpassing the research group led by the professor. <br>
 <br> **_Technologies used:_** Java, Matlab
-
-## Awards / Hackathons
-
-- 🥈 **2nd Place – Masumi Hackathon** (04/2025)
-- 🥈 **2nd Place – NEAR Hackathon (Blockchain Week)** (2025)
 
 ## Programs / Grants
 
