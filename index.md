@@ -4,15 +4,16 @@ title: Jona Heidsick's CV
 ---
 # Jona Heidsick
 
-Boyenstr. 31, 10115 Berlin  
-Email: jona.heidsick@gmail.com  
-Phone: +49 1522 9037577  
-LinkedIn: https://www.linkedin.com/in/jona-heidsick-218aa01b7/  
-GitHub: https://github.com/JonesH
+<p id="webaddress">
+Boyenstr. 31, 10115 Berlin · Email: jona.heidsick@gmail.com · Phone: +49 1522 9037577 · LinkedIn: https://www.linkedin.com/in/jona-heidsick-218aa01b7/ · GitHub: https://github.com/JonesH
+</p>
 
 ## Summary
 
-AI-focused Software Engineer (Python) — ships production LLM/RAG systems fast without sacrificing code quality. Strong backend + data + DevOps; light frontend (React/TS) for admin/UIs when needed. Proven in real client work, cost cuts, and reliability improvements.
+  * Code quality advocate
+  * Passionate about data
+  * Track record in optimising for performance
+  * Hacking software development to ship ideas faster
 
 
 ## Experience

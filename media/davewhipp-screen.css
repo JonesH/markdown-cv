@@ -167,12 +167,12 @@ a:hover {
 }
 
 #webaddress {
-	margin-top: 1em;
-	position: relative;
-	left: 25%;
-	color: #bc412b;
-	font-family: Monaco,Menlo,monospace,sans-serif;
-	font-size: 100%;
+    margin-top: 0.5em;
+    position: relative;
+    left: 25%;
+    color: #bc412b;
+    font-family: Monaco,Menlo,monospace,sans-serif;
+    font-size: 80%;
 }
 
 #webaddress a {
