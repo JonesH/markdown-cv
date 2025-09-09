@@ -75,8 +75,6 @@ Review aggregation platform. <br>
   * Created ETL for language enrichment; maintained legacy services.
   * Deployed Elasticsearch for efficient text retrieval.
 
-### Earlier Experience (summary)
-
 `2019` — Freelancer @ coding.ms (TYPO3/PHP): cloud setup, integrations, DB migrations.
 
 `2016 - 2019` — Founder @ Better World Communications: secure communications platform (OpenVPN/OMEMO), infra and devices.
