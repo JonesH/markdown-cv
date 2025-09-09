@@ -36,14 +36,10 @@ title: Jona Heidsick's CV
 `01/2025 - Present`
 __Freelance Software Engineer & AI/Blockchain Developer__, Berlin <br>
 
-  * RAG system (364+ conv.): n8n + PostgreSQL; staged agents/constrained outputs cut LLM cost ~95%.
-  * Infra automation: Docker Compose + Nginx on Hetzner; one‑command deploys; automated subdomain/TLS.
-  * Telegram MCP bot: agent orchestration; blockchain ops via chat, accurate timeboxing.
-  * Code browsing (experimental): static symbols + context nav; superseded by context7 for agent context search.
-  * WebSSH fork: SQLite session logs + fingerprinting; workaround to run ChatGPT mobile with custom GPT actions pre‑native support.
-  * PFAS‑Catch MVP (07/2025): voice‑to‑chemistry; simple MVP, informed later agentic integration.
-  * Myth.OS‑Reply (09/2025): Twitter automation SaaS (multi‑user, RBAC, JWT, monitoring); rate‑limit‑aware jobs.
-  * MCP servers (03–05/2025): mcp‑reflect, mcp‑kerykeion/kery; early protocol adoption.
+  * Built production LLM workflows (364+ conv.) with staged agents, constrained outputs, and targeted retrieval; reduced run‑costs ~95% while improving answer precision.
+  * Automated infra on Hetzner (Docker Compose + Nginx): one‑command deploys, subdomain/TLS provisioning, multi‑service ops.
+  * Agentic interfaces: Telegram + MCP for tool use and blockchain ops via chat; context7 adopted for reliable agent context search.
+  * Developer ergonomics: WebSSH fork to run ChatGPT mobile as coding/ops assistant on VPS via custom GPT actions pre‑native support; persistent session logging and fingerprinting.
 <br> **_Technologies used:_** Python 3 (pydantic v2, FastAPI, aiogram, pydantic-ai), Docker Compose, Nginx, PostgreSQL, vector stores, Hetzner VPS, Node.js/TypeScript, OpenRouter, OpenAI, Claude, n8n, MCP, fast-agent-mcp
 
 `Mar 2024 - Dec 2024`
