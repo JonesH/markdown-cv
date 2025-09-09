@@ -129,7 +129,7 @@ __High performance computing__
 __Tech Stack (2025)__
   * AI/LLM & RAG: local LLMs (M1 Max), RAG, vector stores.
   * Backend & Frameworks: Python 3 (pydantic v2/core, FastAPI, aiogram v3.21+), Node.js 20/22.
-  * Blockchain & Smart Contracts: PyTeal + Beaker (Algorand), Solidity/Foundry (Theta EVM), ZK (conceptual).
+  * Blockchain & Smart Contracts: PyTeal + Beaker (Algorand), Solidity/Foundry (Theta EVM).
   * DevOps & Infra: Docker Compose, Nginx, Hetzner VPS.
 
 <!--
@@ -194,9 +194,7 @@ __Neural Network Models @ RU Nijmegen__
 
 ## Research & Open Source (2025)
 
-- AAS (inspired by EAS), W3C VC 2.0 & DID compliant: prototype for attested agent outputs.
-- “Pydantic × Web3”: experimental mapping of Pydantic models to on-chain structures.
-- Trustworthy AI: verifiable agent workflows with TEE/EdgeCloud integration.
+- Interests: verifiable AI and using blockchains (e.g., Ethereum and other L1s) for attestations, provenance, and auditability.
 
 <!-- - setup a server with jupyterhub to enable team members -->
 
@@ -238,6 +236,7 @@ __Login system @ dren-fotografie.de__
   * English (fluent)
   * Dutch (fluent)
   * Spanish (basic)
+  * French (basic)
 
 
 ## Education
