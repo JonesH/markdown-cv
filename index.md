@@ -194,7 +194,7 @@ __Immanuel Kant Gymnasium__, Münster
 
 `2009`
 __Neural Network Models @ RU Nijmegen__
-  * Implemented AdaBoost combined with a Multi‑Layer Perceptron (from scratch) for handwritten digit recognition; top result in class.
+  * Implemented AdaBoost with a Multi‑Layer Perceptron (from scratch) for OCR (handwritten digit recognition); top result in class.
 
 <!-- ### Footer
 
