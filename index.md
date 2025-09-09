@@ -44,7 +44,7 @@ __Freelance Software Engineer & AI/Blockchain Developer__, Berlin <br>
   * PFAS‑Catch MVP (07/2025): voice‑to‑chemistry; simple MVP, informed later agentic integration.
   * Myth.OS‑Reply (09/2025): Twitter automation SaaS (multi‑user, RBAC, JWT, monitoring); rate‑limit‑aware jobs.
   * MCP servers (03–05/2025): mcp‑reflect, mcp‑kerykeion/kery; early protocol adoption.
-<br> **_Technologies used:_** Python 3 (pydantic v2, FastAPI, aiogram), Docker Compose, Nginx, PostgreSQL, vector stores, Hetzner VPS, Node.js/TypeScript, OpenRouter, Twitter API v2, RDKit, Weaviate, n8n, MCP
+<br> **_Technologies used:_** Python 3 (pydantic v2, FastAPI, aiogram), Docker Compose, Nginx, PostgreSQL, vector stores, Hetzner VPS, Node.js/TypeScript, OpenRouter, n8n, MCP
 
 `Mar 2024 - Dec 2024`
 __Senior Backend Engineer @ Real Life Interaction__, Berlin <br>
